@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" xmlns="https://www.homepage-webhilfe.de/XML/XSD/">
+     
+    <xs:element name="Mitglied">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="persoenlicheDaten">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="anrede">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="Herr"/>
+                                        <xs:enumeration value="Frau"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="AkademTitel" type="xs:string" minOccurs="0" maxOccurs="unbounded"></xs:element>
+                            <xs:element name="Vorname" minOccurs="1" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="2"></xs:minLength>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Nachname" minOccurs="1" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="2"></xs:minLength>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Straße" minOccurs="1" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="2"></xs:minLength>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="StraßeNr" minOccurs="1" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="1"></xs:minLength>
+                                        <xs:pattern value="[0-9].*"></xs:pattern>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="PLZ" minOccurs="1" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="[\d]{5}"></xs:pattern>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Ort" minOccurs="1" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="3"></xs:minLength>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="AbweichendeRechnungsanschrift" minOccurs="0">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:boolean"></xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Straße" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="2"></xs:minLength>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="StraßeNr" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="1"></xs:minLength>
+                                        <xs:pattern value="[0-9].*"></xs:pattern>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="PLZ" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:maxLength value="5"/>
+                                        <xs:minLength value="5"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Ort" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="3"></xs:minLength>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Geburtsdatum" minOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="((0[1-9]|[1-2]\d|3[01])\.(0[13578]|1[02])|([0-2]\d|30)\.(0[469]|11)|(0[1-9]|1\d|2[0-8])\.02)\.\d{4}|(0[1-9]|[12]\d)\.02\.(([02468][048]|[13579][26])00|(\d{2}([02468][48]|[2468][048]|[13579][26])))"></xs:pattern>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Geburtsort" minOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="3"></xs:minLength>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="BevorzugteStadt" minOccurs="0">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="Gießen"/>
+                                        <xs:enumeration value="Bonn"/>
+                                        <xs:enumeration value="Fürth"/>
+                                        <xs:enumeration value="Kassel"/>
+                                        <xs:enumeration value="Marburg"/>
+                                        <xs:enumeration value="Nürnberg"/>
+                                        <xs:enumeration value="Würzburg"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="BevorzugteStation" minOccurs="0">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="Am Plan"></xs:enumeration>
+                                        <xs:enumeration value="August-Bebel-Platz"></xs:enumeration>
+                                        <xs:enumeration value="Brücke"></xs:enumeration>
+                                        <xs:enumeration value="Brüder-Grimm-Straße"></xs:enumeration>
+                                        <xs:enumeration value="Cappel Tegut"></xs:enumeration>
+                                        <xs:enumeration value="Elisabethkirche"></xs:enumeration>
+                                        <xs:enumeration value="Erlengraben"></xs:enumeration>
+                                        <xs:enumeration value="Friedgof"></xs:enumeration>
+                                        <xs:enumeration value="Friedrich"></xs:enumeration>
+                                        <xs:enumeration value="Friedrichsplatz"></xs:enumeration>
+                                        <xs:enumeration value="Georg"></xs:enumeration>
+                                        <xs:enumeration value="Georg-Gaßmann-Stadion"></xs:enumeration>
+                                        <xs:enumeration value="Haselhecke"></xs:enumeration>
+                                        <xs:enumeration value="Haspelstraße"></xs:enumeration>
+                                        <xs:enumeration value="HBF Nordausgang Ladesäule"></xs:enumeration>
+                                        <xs:enumeration value="HBF Stadtausgang Parkdeck"></xs:enumeration>
+                                        <xs:enumeration value="Im Lichtenholz"></xs:enumeration>
+                                        <xs:enumeration value="Ocker"></xs:enumeration>
+                                        <xs:enumeration value="Quod"></xs:enumeration>
+                                        <xs:enumeration value="Radestraße"></xs:enumeration>
+                                        <xs:enumeration value="Rose"></xs:enumeration>
+                                        <xs:enumeration value="Rudolphsplatz"></xs:enumeration>
+                                        <xs:enumeration value="Savignystraße"></xs:enumeration>
+                                        <xs:enumeration value="Softwarecenter"></xs:enumeration>
+                                        <xs:enumeration value="Staatsarchiv"></xs:enumeration>
+                                        <xs:enumeration value="Stadtbüro"></xs:enumeration>
+                                        <xs:enumeration value="Stein"></xs:enumeration>
+                                        <xs:enumeration value="Süd"></xs:enumeration>
+                                        <xs:enumeration value="Turnhalle"></xs:enumeration>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="fuehrerschein">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="fuehrerscheinNummer" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="\w\d\d\d[\d\w][\d\w][\d\w][\d\w][\d\w]\d[\d\w]"></xs:pattern>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="ausgestelltDatum" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="((0[1-9]|[1-2]\d|3[01])\.(0[13578]|1[02])|([0-2]\d|30)\.(0[469]|11)|(0[1-9]|1\d|2[0-8])\.02)\.\d{4}|(0[1-9]|[12]\d)\.02\.(([02468][048]|[13579][26])00|(\d{2}([02468][48]|[2468][048]|[13579][26])))"></xs:pattern>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Behörde" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="\D*"></xs:pattern>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Klassen" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="AM"></xs:enumeration>
+                                        <xs:enumeration value="A1"></xs:enumeration>
+                                        <xs:enumeration value="A2"></xs:enumeration>
+                                        <xs:enumeration value="A"></xs:enumeration>
+                                        <xs:enumeration value="B1"></xs:enumeration>
+                                        <xs:enumeration value="B"></xs:enumeration>
+                                        <xs:enumeration value="C1"></xs:enumeration>
+                                        <xs:enumeration value="C"></xs:enumeration>
+                                        <xs:enumeration value="D1"></xs:enumeration>
+                                        <xs:enumeration value="D"></xs:enumeration>
+                                        <xs:enumeration value="BE"></xs:enumeration>
+                                        <xs:enumeration value="C1E"></xs:enumeration>
+                                        <xs:enumeration value="CE"></xs:enumeration>
+                                        <xs:enumeration value="D1E"></xs:enumeration>
+                                        <xs:enumeration value="DE"></xs:enumeration>
+                                        <xs:enumeration value="L"></xs:enumeration>
+                                        <xs:enumeration value="T"></xs:enumeration>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="kontakt">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Email" minOccurs="1" maxOccurs="2">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="([\w\d]([-.\w_]*[\w\d])*@([\w\d][-\w]*[\w\d]\.)+[\w]{2,9})"></xs:pattern>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Mobilnummer" minOccurs="1" maxOccurs="3">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="(\+49)[\d]{10}|(0049)[\d]{10}"></xs:pattern>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Passwort" minOccurs="1" maxOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="8"></xs:minLength>
+                                        <xs:pattern value="(.*[a-züäöß].*[A-ZÖÜÄ].*[0-9].*[!§$%/()=?*+'#-_.:,;{\[\]}\\].*)|(.*[a-züäöß].*[A-ZÖÜÄ].*[!§$%/()=?*+'#-_.:,;{\[\]}\\].*[0-9].*)"></xs:pattern>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="lastschrift"></xs:element>
+                <xs:element name="kundenWerdenKunden">
+                    
+                </xs:element>
+                <xs:element name="gutscheine">
+                    
+                </xs:element>
+                <xs:element name="agb">
+                    
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

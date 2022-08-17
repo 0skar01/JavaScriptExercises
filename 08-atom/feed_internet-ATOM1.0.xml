@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="transform-to-html5.xsl" type="text/xsl"?>
+<!-- generator="FeedCreator 1.6" -->
+<feed xmlns="http://www.w3.org/2005/Atom"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xml:lang="de">
+    <title type="html">Golem.de - Internet</title>
+    <subtitle type="html">IT-News fuer Profis</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://rss.golem.de/rss.php?ms=internet&amp;feed=ATOM1.0"/>
+    <link rel="alternate" type="text/html" href="https://www.golem.de/specials/internet/"/>
+    <id>https://www.golem.de/specials/internet/</id>
+    <logo>https://www.golem.de/staticrl/images/golem-rss.png</logo>
+    <icon>https://www.golem.de/favicon.ico</icon>
+    <updated>2022-06-22T08:06:05+02:00</updated>
+    <generator>FeedCreator 1.6</generator>
+    <entry>
+        <title type="html">Messenger: Deutsche Bank soll Smartphones von Mitarbeitern überwachen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/messenger-deutsche-bank-soll-smartphones-von-mitarbeitern-ueberwachen-2206-166310.html"/>
+        <published>2022-06-21T17:51:02+02:00</published>
+        <updated>2022-06-21T17:51:02+02:00</updated>
+        <id>https://www.golem.de/news/messenger-deutsche-bank-soll-smartphones-von-mitarbeitern-ueberwachen-2206-166310.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mit der Überwachungssoftware sollen Chats und Gespräche mit Kunden, beispielsweise über Whatsapp, mitgeschnitten werden. (&lt;a href=&quot;https://www.golem.de/specials/ueberwachung/&quot;&gt;Überwachung&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/instantmessenger/&quot;&gt;Instant Messenger&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166310&amp;amp;page=1&amp;amp;ts=1655826662&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Apple Pay, Google, Elektroautos: Kein Gratisladen mehr bei Aldi Süd</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/apple-pay-google-elektroautos-kein-gratisladen-mehr-bei-aldi-sued-2206-166301.html"/>
+        <published>2022-06-21T17:00:04+02:00</published>
+        <updated>2022-06-21T17:00:04+02:00</updated>
+        <id>https://www.golem.de/news/apple-pay-google-elektroautos-kein-gratisladen-mehr-bei-aldi-sued-2206-166301.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html"> Was am 21. Juni 2022 neben den großen Meldungen sonst noch passiert ist, in aller Kürze. (&lt;a href=&quot;https://www.golem.de/specials/kurznews/&quot;&gt;Kurznews&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/steam/&quot;&gt;Steam&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166301&amp;amp;page=1&amp;amp;ts=1655823603&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Studie: Mehrheit der Menschen sieht Digitalisierung als Chance</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/studie-mehrheit-der-menschen-sieht-digitalisierung-als-chance-2206-166308.html"/>
+        <published>2022-06-21T16:48:10+02:00</published>
+        <updated>2022-06-21T16:48:10+02:00</updated>
+        <id>https://www.golem.de/news/studie-mehrheit-der-menschen-sieht-digitalisierung-als-chance-2206-166308.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Doch neben den Chancen der Digitalisierung befürchten viele auch eine gesellschaftliche Spaltung. (&lt;a href=&quot;https://www.golem.de/specials/studie/&quot;&gt;Studie&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/verbraucherschutz/&quot;&gt;Verbraucherschutz&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166308&amp;amp;page=1&amp;amp;ts=1655822882&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">EuGH: Verarbeitung von Fluggastdaten beschränken</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/eugh-verarbeitung-von-fluggastdaten-beschraenken-2206-166300.html"/>
+        <published>2022-06-21T14:00:08+02:00</published>
+        <updated>2022-06-21T14:00:08+02:00</updated>
+        <id>https://www.golem.de/news/eugh-verarbeitung-von-fluggastdaten-beschraenken-2206-166300.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Verarbeitung Fluggastdaten (PNR) muss laut einem Urteil des EuGH auf das Notwendigste beschränkt werden. (&lt;a href=&quot;https://www.golem.de/specials/eugh/&quot;&gt;EuGH&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166300&amp;amp;page=1&amp;amp;ts=1655812808&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">G7-Gipfel 2015 in Elmau: Geheime Dokumente der Polizei im Netz aufgetaucht</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/g7-gipfel-2015-in-elmau-geheime-dokumente-der-polizei-im-netz-aufgetaucht-2206-166295.html"/>
+        <published>2022-06-21T13:45:07+02:00</published>
+        <updated>2022-06-21T13:45:07+02:00</updated>
+        <id>https://www.golem.de/news/g7-gipfel-2015-in-elmau-geheime-dokumente-der-polizei-im-netz-aufgetaucht-2206-166295.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Auf dem deutschsprachigen Indymedia werden vertrauliche Polizei-Dokumente zum G7-Gipfel in Elmau von 2015 geteilt. (&lt;a href=&quot;https://www.golem.de/specials/polizei/&quot;&gt;Polizei&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166295&amp;amp;page=1&amp;amp;ts=1655811902&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Google Maps: Bundeskartellamt prüft Googles Umgang mit Karten-Konkurrenz</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/google-maps-bundeskartellamt-prueft-googles-umgang-mit-karten-konkurrenz-2206-166298.html"/>
+        <published>2022-06-21T13:30:10+02:00</published>
+        <updated>2022-06-21T13:30:10+02:00</updated>
+        <id>https://www.golem.de/news/google-maps-bundeskartellamt-prueft-googles-umgang-mit-karten-konkurrenz-2206-166298.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Das Kartellamt prüft, ob Google die Nutzung seiner Kartendienste in denen der Konkurrenz einschränkt. (&lt;a href=&quot;https://www.golem.de/specials/google/&quot;&gt;Google&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/googlestreetview/&quot;&gt;Google Street View&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166298&amp;amp;page=1&amp;amp;ts=1655811002&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Neue Berec-Leitlinien: Mit Zero-Rating ist endgültig Schluss</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/neue-berec-leitlinien-mit-zero-rating-ist-endgueltig-schluss-2206-166279.html"/>
+        <published>2022-06-21T08:14:11+02:00</published>
+        <updated>2022-06-21T08:14:11+02:00</updated>
+        <id>https://www.golem.de/news/neue-berec-leitlinien-mit-zero-rating-ist-endgueltig-schluss-2206-166279.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Nach einem Urteil des EuGH haben die europäischen Regulierungsbehörden ihre Leitlinien zur Netzneutralität angepasst. (&lt;a href=&quot;https://www.golem.de/specials/netzneutralitaet/&quot;&gt;Netzneutralität&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166279&amp;amp;page=1&amp;amp;ts=1655792042&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">FTTB/H: Netcologne baut Glasfaser für 48.000 Haushalte</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/fttb-h-netcologne-baut-glasfaser-fuer-48-000-haushalte-2206-166273.html"/>
+        <published>2022-06-20T17:10:06+02:00</published>
+        <updated>2022-06-20T17:10:06+02:00</updated>
+        <id>https://www.golem.de/news/fttb-h-netcologne-baut-glasfaser-fuer-48-000-haushalte-2206-166273.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Netcologne baut sein Netz weiter aus und steigert Gewinn und Umsatz. (&lt;a href=&quot;https://www.golem.de/specials/netcologne/&quot;&gt;Netcologne&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/glasfaser/&quot;&gt;Glasfaser&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166273&amp;amp;page=1&amp;amp;ts=1655737803&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">PackBot: Bundeswehr erhält neue Landroboter</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/packbot-bundeswehr-erhaelt-neue-landroboter-2206-166271.html"/>
+        <published>2022-06-20T16:40:03+02:00</published>
+        <updated>2022-06-20T16:40:03+02:00</updated>
+        <id>https://www.golem.de/news/packbot-bundeswehr-erhaelt-neue-landroboter-2206-166271.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Für die Aufklärung und Entschärfung wird das Heer mit 127 kleinen Bodenrobotern ausgestattet. Rheinmetall zeigt derweil einen bewaffneten Drohnenpanzer. (&lt;a href=&quot;https://www.golem.de/specials/drohne/&quot;&gt;Drohne&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/irobot/&quot;&gt;iRobot&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166271&amp;amp;page=1&amp;amp;ts=1655736002&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Zensur: Russland blockiert wohl gezielt HTTP/3 und Quic</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/zensur-russland-blockiert-wohl-gezielt-http-3-und-quic-2206-166267.html"/>
+        <published>2022-06-20T15:22:09+02:00</published>
+        <updated>2022-06-20T15:22:09+02:00</updated>
+        <id>https://www.golem.de/news/zensur-russland-blockiert-wohl-gezielt-http-3-und-quic-2206-166267.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mit der wachsenden Nutzung von Quic und HTTP/3 steigen auch die Bemühungen, die Protokolle zu blockieren, wie eine Untersuchung zeigt. (&lt;a href=&quot;https://www.golem.de/specials/quic/&quot;&gt;Quic&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internetsperren/&quot;&gt;Internetsperren&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166267&amp;amp;page=1&amp;amp;ts=1655731322&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Durchsuchungen wegen Hassrede: Ein Like auf Twitter und das Handy ist weg</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/durchsuchungen-wegen-hassrede-ein-like-auf-twitter-und-das-handy-ist-weg-2206-166258.html"/>
+        <published>2022-06-20T15:00:11+02:00</published>
+        <updated>2022-06-20T15:00:11+02:00</updated>
+        <id>https://www.golem.de/news/durchsuchungen-wegen-hassrede-ein-like-auf-twitter-und-das-handy-ist-weg-2206-166258.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mit einer bundesweiten Aktion will die Polizei gegen Hassrede vorgehen. Damit das Handy beschlagnahmt wird, reichen auch angebliche Likes auf Twitter. (&lt;a href=&quot;https://www.golem.de/specials/polizei/&quot;&gt;Polizei&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166258&amp;amp;page=1&amp;amp;ts=1655730003&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Super-Cookie Trustpid: Vertrauen wäre gut, Datenschutz noch besser</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/super-cookie-trustpid-vertrauen-ist-gut-datenschutz-waere-besser-2206-166259.html"/>
+        <published>2022-06-20T14:00:12+02:00</published>
+        <updated>2022-06-20T14:00:12+02:00</updated>
+        <id>https://www.golem.de/news/super-cookie-trustpid-vertrauen-ist-gut-datenschutz-waere-besser-2206-166259.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Provider Vodafone, Deutsche Telekom und Telefónica wollen in den Werbemarkt einsteigen. Noch ist offen, worauf sich Nutzer dabei einlassen. (&lt;a href=&quot;https://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/telekom/&quot;&gt;Telekom&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166259&amp;amp;page=1&amp;amp;ts=1655726403&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Videokonferenz: Datenschutzbeauftragter erlaubt Zoom-Einsatz unter Auflagen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/videokonferenz-datenschutzbeauftragter-erlaubt-zoom-einsatz-unter-auflagen-2206-166255.html"/>
+        <published>2022-06-20T11:20:07+02:00</published>
+        <updated>2022-06-20T11:20:07+02:00</updated>
+        <id>https://www.golem.de/news/videokonferenz-datenschutzbeauftragter-erlaubt-zoom-einsatz-unter-auflagen-2206-166255.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">An hessischen Hochschulen darf Zoom weiter genutzt werden, sofern die Maßnahmen des Hessischen Modells umgesetzt werden. (&lt;a href=&quot;https://www.golem.de/specials/zoom/&quot;&gt;Zoom&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166255&amp;amp;page=1&amp;amp;ts=1655716802&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">In eigener Sache: Webinar zu Pentesting und Hacking - live und kostenlos</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/in-eigener-sache-webinar-zu-pentesting-und-hacking-live-und-kostenlos-2206-166230.html"/>
+        <published>2022-06-20T09:00:04+02:00</published>
+        <updated>2022-06-20T09:00:04+02:00</updated>
+        <id>https://www.golem.de/news/in-eigener-sache-webinar-zu-pentesting-und-hacking-live-und-kostenlos-2206-166230.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Lücken im eigenen System finden, bevor es Kriminelle tun - wie das geht, erklärt unser kostenloses Live-Webinar am 23. Juni ab 16 Uhr. (&lt;a href=&quot;https://www.golem.de/specials/golem.de/&quot;&gt;Golem.de&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166230&amp;amp;page=1&amp;amp;ts=1655708404&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektroauto: KFZ-Hersteller gegen Streichung der E-Auto-Kaufprämie</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektroauto-kfz-hersteller-gegen-streichung-der-e-auto-kaufpraemie-2206-166244.html"/>
+        <published>2022-06-19T15:00:06+02:00</published>
+        <updated>2022-06-19T15:00:06+02:00</updated>
+        <id>https://www.golem.de/news/elektroauto-kfz-hersteller-gegen-streichung-der-e-auto-kaufpraemie-2206-166244.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Christian Lindner will die Prämie beim Kauf von E-Autos abschaffen - die Autohersteller finden das nicht so gut und pochen auf den Koalitionsvertrag. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166244&amp;amp;page=1&amp;amp;ts=1655643602&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">USA: Apple Store organisiert sich gewerkschaftlich</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/usa-apple-store-organisiert-sich-gewerkschaftlich-2206-166243.html"/>
+        <published>2022-06-19T14:30:05+02:00</published>
+        <updated>2022-06-19T14:30:05+02:00</updated>
+        <id>https://www.golem.de/news/usa-apple-store-organisiert-sich-gewerkschaftlich-2206-166243.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">In den USA hat die Belegschaft eines Apple Stores erfolgreich darüber abgestimmt, sich gewerkschaftlich zu organisieren. (&lt;a href=&quot;https://www.golem.de/specials/apple-store/&quot;&gt;Apple Store&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/apple/&quot;&gt;Apple&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166243&amp;amp;page=1&amp;amp;ts=1655641802&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Kryptowährung: Mit Ethereum fallen die Grafikkartenpreise</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/kryptowaehrung-mit-ethereum-fallen-die-grafikkartenpreise-2206-166241.html"/>
+        <published>2022-06-19T11:53:03+02:00</published>
+        <updated>2022-06-19T11:53:03+02:00</updated>
+        <id>https://www.golem.de/news/kryptowaehrung-mit-ethereum-fallen-die-grafikkartenpreise-2206-166241.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Ethereum ist unter 1.000 US-Dollar gefallen - keine gute Nachricht für Miner und Grafikkartenverkäufer. (&lt;a href=&quot;https://www.golem.de/specials/ethereum/&quot;&gt;Ethereum&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/grafikhardware/&quot;&gt;Grafikhardware&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166241&amp;amp;page=1&amp;amp;ts=1655632382&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Kryptowährung: Bitcoin fällt unter 20.000 US-Dollar</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/kryptowaehrung-bitcoin-faellt-unter-20-000-us-dollar-2206-166238.html"/>
+        <published>2022-06-18T12:33:09+02:00</published>
+        <updated>2022-06-18T12:33:09+02:00</updated>
+        <id>https://www.golem.de/news/kryptowaehrung-bitcoin-faellt-unter-20-000-us-dollar-2206-166238.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Einstiegskurse - oder geht es noch weiter bergab? Der Kurs des Bitcoin ist unter eine psychologisch wichtige Marke gefallen. (&lt;a href=&quot;https://www.golem.de/specials/bitcoin/&quot;&gt;Bitcoin&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/boerse/&quot;&gt;Börse&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166238&amp;amp;page=1&amp;amp;ts=1655548381&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Hacker: Cyberangriff auf Grüne mit Mail-Rückläufern</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/hacker-cyberangriff-auf-gruene-mit-mail-ruecklaeufern-2206-166234.html"/>
+        <published>2022-06-18T11:36:06+02:00</published>
+        <updated>2022-06-18T11:36:06+02:00</updated>
+        <id>https://www.golem.de/news/hacker-cyberangriff-auf-gruene-mit-mail-ruecklaeufern-2206-166234.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mutmaßlich russische Hacker sollen E-Mail-Konten der Grünen angegriffen haben. Aufgefallen ist das offenbar wegen eines Anfängerfehlers. (&lt;a href=&quot;https://www.golem.de/specials/hacker/&quot;&gt;Hacker&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/cyberwar/&quot;&gt;Cyberwar&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166234&amp;amp;page=1&amp;amp;ts=1655544962&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Regulierung: Netzbetreiber fürchten Vormacht der Telekom bei Glasfaser</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/regulierung-netzbetreiber-fuerchten-vormacht-der-telekom-bei-glasfaser-2206-166232.html"/>
+        <published>2022-06-17T19:00:04+02:00</published>
+        <updated>2022-06-17T19:00:04+02:00</updated>
+        <id>https://www.golem.de/news/regulierung-netzbetreiber-fuerchten-vormacht-der-telekom-bei-glasfaser-2206-166232.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Bundesnetzagentur will bei Glasfaser anders regulieren. Die Konkurrenten der Deutschen Telekom sehen hier erhebliche Probleme. (&lt;a href=&quot;https://www.golem.de/specials/glasfaser/&quot;&gt;Glasfaser&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/dsl/&quot;&gt;DSL&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166232&amp;amp;page=1&amp;amp;ts=1655485202&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Mindestversorgung: Recht auf schnelles Internet gilt ab sofort</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/mindestversorgung-recht-auf-schnelles-internet-gilt-ab-sofort-2206-166229.html"/>
+        <published>2022-06-17T17:30:11+02:00</published>
+        <updated>2022-06-17T17:30:11+02:00</updated>
+        <id>https://www.golem.de/news/mindestversorgung-recht-auf-schnelles-internet-gilt-ab-sofort-2206-166229.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Das Recht auf schnelles Internet kann jetzt durchgesetzt werden. Allerdings müssen Betroffene mitunter Geduld haben. (&lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/bundesnetzagentur/&quot;&gt;Bundesnetzagentur&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166229&amp;amp;page=1&amp;amp;ts=1655479802&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Google, Verschwörhaus, Dragon's Dogma: Pixel Watch mit Auswahl, Makerspace ohne Räume</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/google-verschwoerhaus-dragon-s-dogma-pixel-watch-mit-auswahl-makerspace-ohne-raeume-2206-166212.html"/>
+        <published>2022-06-17T17:00:04+02:00</published>
+        <updated>2022-06-17T17:00:04+02:00</updated>
+        <id>https://www.golem.de/news/google-verschwoerhaus-dragon-s-dogma-pixel-watch-mit-auswahl-makerspace-ohne-raeume-2206-166212.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html"> Was am 17. Juni 2022 neben den großen Meldungen sonst noch passiert ist, in aller Kürze. (&lt;a href=&quot;https://www.golem.de/specials/kurznews/&quot;&gt;Kurznews&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/google/&quot;&gt;Google&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166212&amp;amp;page=1&amp;amp;ts=1655478002&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">IT-Security: Cyberagentur schreibt Aufträge für 30 Millionen Euro aus</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/it-security-cyberagentur-schreibt-auftraege-fuer-30-millionen-euro-aus-2206-166225.html"/>
+        <published>2022-06-17T14:47:07+02:00</published>
+        <updated>2022-06-17T14:47:07+02:00</updated>
+        <id>https://www.golem.de/news/it-security-cyberagentur-schreibt-auftraege-fuer-30-millionen-euro-aus-2206-166225.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mit dem Geld sollen Vorhaben für die IT-Security unterstützt werden, die Behörden und kritischer Infrastruktur dienen. (&lt;a href=&quot;https://www.golem.de/specials/kritis/&quot;&gt;Kritis&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166225&amp;amp;page=1&amp;amp;ts=1655470022&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Julian Assange: Wikileaks-Gründer darf in die USA ausgeliefert werden</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/britische-regierung-julian-assange-soll-in-die-usa-ausgeliefert-werden-2206-166219.html"/>
+        <published>2022-06-17T13:12:11+02:00</published>
+        <updated>2022-06-17T13:12:11+02:00</updated>
+        <id>https://www.golem.de/news/britische-regierung-julian-assange-soll-in-die-usa-ausgeliefert-werden-2206-166219.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Das britische Innenministerium hat bestätigt: Der Gründer von Wikileaks darf in die USA ausgeliefert werden. Unterstützer zeigen sich empört. (&lt;a href=&quot;https://www.golem.de/specials/julian-assange/&quot;&gt;Julian Assange&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/ccc/&quot;&gt;CCC&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166219&amp;amp;page=1&amp;amp;ts=1655464322&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Open Source Intelligence: Der Geheimdienst der Schwarmintelligenz</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/open-source-intelligence-der-geheimdienst-der-schwarmintelligenz-2206-165820.html"/>
+        <published>2022-06-17T12:04:01+02:00</published>
+        <updated>2022-06-17T12:04:01+02:00</updated>
+        <id>https://www.golem.de/news/open-source-intelligence-der-geheimdienst-der-schwarmintelligenz-2206-165820.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Im Ukrainekrieg stehen Informationen frei zur Verfügung, die früher vielleicht nicht einmal Geheimdienste hatten. Die Osint-Community sorgt für Weltöffentlichkeit. (&lt;a href=&quot;https://www.golem.de/specials/ukraine-krieg/&quot;&gt;Ukrainekrieg&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165820&amp;amp;page=1&amp;amp;ts=1655460241&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Offener Brief: SpaceX entlässt Musk-Kritiker</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/beschwerde-ueber-musk-spacex-hat-urheber-des-offenen-briefs-entlassen-2206-166216.html"/>
+        <published>2022-06-17T11:20:08+02:00</published>
+        <updated>2022-06-17T11:20:08+02:00</updated>
+        <id>https://www.golem.de/news/beschwerde-ueber-musk-spacex-hat-urheber-des-offenen-briefs-entlassen-2206-166216.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Präsidentin von SpaceX zufolge soll der offene Brief Mitarbeiter unter Druck gesetzt haben - kritisiert wurde das Verhalten von CEO Elon Musk. (&lt;a href=&quot;https://www.golem.de/specials/spacex/&quot;&gt;SpaceX&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/twitter/&quot;&gt;Twitter&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166216&amp;amp;page=1&amp;amp;ts=1655457602&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">C64: Commodore-Kickstarter wegen Markenrechtseinspruch pausiert</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/c64-commodore-kickstarter-wegen-urheberrechtseinspruch-pausiert-2206-166209.html"/>
+        <published>2022-06-17T09:53:11+02:00</published>
+        <updated>2022-06-17T09:53:11+02:00</updated>
+        <id>https://www.golem.de/news/c64-commodore-kickstarter-wegen-urheberrechtseinspruch-pausiert-2206-166209.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">My Retro Computer hat für seinen PC im C64-Gehäuse die Erlaubnis von Commodore - ein italienisches Unternehmen ließ die Kampagne pausieren. (&lt;a href=&quot;https://www.golem.de/specials/c64/&quot;&gt;C64&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/urheberrecht/&quot;&gt;Urheberrecht&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166209&amp;amp;page=1&amp;amp;ts=1655452382&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Ubuntu, Boring Company: Microsoft fixt endlich Follina</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ubuntu-boring-company-microsoft-fixt-endlich-follina-2206-166189.html"/>
+        <published>2022-06-16T17:00:12+02:00</published>
+        <updated>2022-06-16T17:00:12+02:00</updated>
+        <id>https://www.golem.de/news/ubuntu-boring-company-microsoft-fixt-endlich-follina-2206-166189.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html"> Was am 16. Juni 2022 neben den großen Meldungen sonst noch passiert ist, in aller Kürze. (&lt;a href=&quot;https://www.golem.de/specials/kurznews/&quot;&gt;Kurznews&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/ubuntu/&quot;&gt;Ubuntu&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166189&amp;amp;page=1&amp;amp;ts=1655391603&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Offener Brief: SpaceX-Angestellte beklagen Verhalten von Elon Musk</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/offener-brief-spacex-angestellte-beklagen-verhalten-von-elon-musk-2206-166200.html"/>
+        <published>2022-06-16T16:43:02+02:00</published>
+        <updated>2022-06-16T16:43:02+02:00</updated>
+        <id>https://www.golem.de/news/offener-brief-spacex-angestellte-beklagen-verhalten-von-elon-musk-2206-166200.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">In einem offenen Brief fordern Angestellte von SpaceX, dass Elon Musks Verhalten nicht mehr geduldet werden und Konsequenzen haben soll. (&lt;a href=&quot;https://www.golem.de/specials/elon-musk/&quot;&gt;Elon Musk&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/microblogging/&quot;&gt;Microblogging&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166200&amp;amp;page=1&amp;amp;ts=1655390582&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Bundesverfassungsgericht: Journalisten dürfen geleakte Daten nutzen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/bundesverfassungsgericht-journalisten-duerfen-geleakte-daten-nutzen-2206-166193.html"/>
+        <published>2022-06-16T16:00:05+02:00</published>
+        <updated>2022-06-16T16:00:05+02:00</updated>
+        <id>https://www.golem.de/news/bundesverfassungsgericht-journalisten-duerfen-geleakte-daten-nutzen-2206-166193.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der neue Straftatbestand der Datenhehlerei ist nach Ansicht des Bundesverfassungsgerichts keine Gefahr für den Journalismus. (&lt;a href=&quot;https://www.golem.de/specials/gesellschaft-fuer-freiheitsrechte/&quot;&gt;Gesellschaft für Freiheitsrechte&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166193&amp;amp;page=1&amp;amp;ts=1655388002&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Hack: IT-Infrastruktur der Grünen mehrfach angegriffen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/hack-it-infrastruktur-der-gruenen-mehrfach-angegriffen-2206-166198.html"/>
+        <published>2022-06-16T15:44:10+02:00</published>
+        <updated>2022-06-16T15:44:10+02:00</updated>
+        <id>https://www.golem.de/news/hack-it-infrastruktur-der-gruenen-mehrfach-angegriffen-2206-166198.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Infrastruktur der Grünen wurde mehrmals von Hackern angegriffen. Dabei sollen auch Daten abhandengekommen sein. (&lt;a href=&quot;https://www.golem.de/specials/datenleck/&quot;&gt;Datenleck&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166198&amp;amp;page=1&amp;amp;ts=1655387042&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Informationsfreiheit: Ministerium darf von Fragestellern nicht Anschrift verlangen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/informationsfreiheit-ministerium-darf-von-fragestellern-nicht-anschrift-verlangen-2206-166192.html"/>
+        <published>2022-06-16T14:50:04+02:00</published>
+        <updated>2022-06-16T14:50:04+02:00</updated>
+        <id>https://www.golem.de/news/informationsfreiheit-ministerium-darf-von-fragestellern-nicht-anschrift-verlangen-2206-166192.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Das Innenministerium hatte standardmäßig Adressen von Fragestellern bei Frag den Staat verlangt. Das geht so wohl nicht mehr. (&lt;a href=&quot;https://www.golem.de/specials/bundesinnenministerium/&quot;&gt;BMI&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166192&amp;amp;page=1&amp;amp;ts=1655383802&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Ein Jahr nach Boystown-Take-down: BKA löscht kinderpornografische Inhalte</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ein-jahr-nach-boystown-takedown-bka-loescht-kinderpornografische-inhalte-2206-166178.html"/>
+        <published>2022-06-16T14:00:10+02:00</published>
+        <updated>2022-06-16T14:00:10+02:00</updated>
+        <id>https://www.golem.de/news/ein-jahr-nach-boystown-takedown-bka-loescht-kinderpornografische-inhalte-2206-166178.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Viele Monate nach dem Take-down der kinderpornografischen Plattform Boystown hat das BKA nach eigenen Angaben die Löschung der Inhalte veranlasst. (&lt;a href=&quot;https://www.golem.de/specials/bka/&quot;&gt;BKA&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166178&amp;amp;page=1&amp;amp;ts=1655380802&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Datenleck: Daten von Brustkrebs- und Depressions-App abrufbar</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/datenleck-daten-von-brustkrebs-und-depressions-app-abrufbar-2206-166188.html"/>
+        <published>2022-06-16T12:30:11+02:00</published>
+        <updated>2022-06-16T12:30:11+02:00</updated>
+        <id>https://www.golem.de/news/datenleck-daten-von-brustkrebs-und-depressions-app-abrufbar-2206-166188.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Zur Behandlung von Depressionen oder Brustkrebs können Ärzte Apps verschreiben. Doch die persönlichen Daten der Patienten konnten einfach abgerufen werden. (&lt;a href=&quot;https://www.golem.de/specials/datenleck/&quot;&gt;Datenleck&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166188&amp;amp;page=1&amp;amp;ts=1655375403&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">KDE, Icann, Kim Dotcom: Nvidia veröffentlicht neuen Game-Ready-Treiber</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/kde-icann-kim-dotkom-nvidia-veroeffentlicht-neuen-game-ready-treiber-2206-166166.html"/>
+        <published>2022-06-15T17:00:08+02:00</published>
+        <updated>2022-06-15T17:00:08+02:00</updated>
+        <id>https://www.golem.de/news/kde-icann-kim-dotkom-nvidia-veroeffentlicht-neuen-game-ready-treiber-2206-166166.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html"> Was am 15. Juni 2022 neben den großen Meldungen sonst noch passiert ist, in aller Kürze. (&lt;a href=&quot;https://www.golem.de/specials/kurznews/&quot;&gt;Kurznews&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/kde/&quot;&gt;KDE&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166166&amp;amp;page=1&amp;amp;ts=1655305202&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Glasfaser: FTTH-Betreiber in Deutschland wollen Preise erhöhen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/glasfaser-ftth-betreiber-in-deutschland-wollen-preise-erhoehen-2206-166162.html"/>
+        <published>2022-06-15T15:26:04+02:00</published>
+        <updated>2022-06-15T15:26:04+02:00</updated>
+        <id>https://www.golem.de/news/glasfaser-ftth-betreiber-in-deutschland-wollen-preise-erhoehen-2206-166162.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Angesichts der steigenden Inflationsrate möchten Netzbetreiber gerne mehr für 1 GBit/s über FTTH verlangen. Doch sie sehen auch Probleme dabei. (&lt;a href=&quot;https://www.golem.de/specials/glasfaser/&quot;&gt;Glasfaser&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/openaccess/&quot;&gt;Open Access&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166162&amp;amp;page=1&amp;amp;ts=1655299562&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Schriesheim: 170 Gigabyte Daten bei Ransomware-Angriff auf Stadt erbeutet</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/schriesheim-170-gigabyte-daten-bei-ransomware-angriff-auf-stadt-erbeutet-2206-166144.html"/>
+        <published>2022-06-15T10:50:07+02:00</published>
+        <updated>2022-06-15T10:50:07+02:00</updated>
+        <id>https://www.golem.de/news/schriesheim-170-gigabyte-daten-bei-ransomware-angriff-auf-stadt-erbeutet-2206-166144.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Bei dem Ransomware-Angriff auf Schriesheim vor einigen Wochen sind auch persönliche Daten von Bürgern im Darknet aufgetaucht. (&lt;a href=&quot;https://www.golem.de/specials/ransomware/&quot;&gt;Ransomware&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/malware/&quot;&gt;Malware&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166144&amp;amp;page=1&amp;amp;ts=1655283003&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Akkutechnik: Our Next Energy baut Akku für 1.000 km-BMW-Prototyp</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/akkutechnik-our-next-energy-baut-akku-fuer-1-000-km-bmw-prototyp-2206-166141.html"/>
+        <published>2022-06-15T10:35:03+02:00</published>
+        <updated>2022-06-15T10:35:03+02:00</updated>
+        <id>https://www.golem.de/news/akkutechnik-our-next-energy-baut-akku-fuer-1-000-km-bmw-prototyp-2206-166141.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">ONE will Akkukapazität von Elektroautos mit allen Mitteln verdoppeln und kann das auch schaffen. Fraglich ist, ob die Technik das richtige Ziel hat. (&lt;a href=&quot;https://www.golem.de/specials/elektromobilitaet/&quot;&gt;Elektromobilität&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166141&amp;amp;page=1&amp;amp;ts=1655282102&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Anzeige: Führung in der IT kann man lernen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/anzeige-gute-fuehrung-in-der-it-muss-gelernt-sein-2206-165758.html"/>
+        <published>2022-06-15T10:32:10+02:00</published>
+        <updated>2022-06-15T10:32:10+02:00</updated>
+        <id>https://www.golem.de/news/anzeige-gute-fuehrung-in-der-it-muss-gelernt-sein-2206-165758.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Gute Führungskräfte in der IT sind unverzichtbar. Und kommen nicht von ungefähr. Fachliche und persönliche Qualifikationen machen den Unterschied - und sind entsprechend gefragt. (&lt;a href=&quot;https://www.golem.de/specials/golemakademie/&quot;&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165758&amp;amp;page=1&amp;amp;ts=1655281922&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Straftaten im Netz: Polizei setzt auf neue Software gegen Cybercrime</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/straftaten-im-netz-polizei-setzt-auf-neue-software-gegen-cybercrime-2206-166139.html"/>
+        <published>2022-06-15T08:34:11+02:00</published>
+        <updated>2022-06-15T08:34:11+02:00</updated>
+        <id>https://www.golem.de/news/straftaten-im-netz-polizei-setzt-auf-neue-software-gegen-cybercrime-2206-166139.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Polizei in Niedersachsen will mit einem neuen digitalen Werkzeug gewappnet sein, da sich die Arbeitsweise von Cybercrime-Straftätern ständig ändert. (&lt;a href=&quot;https://www.golem.de/specials/cybercrime/&quot;&gt;Cybercrime&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166139&amp;amp;page=1&amp;amp;ts=1655274842&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+</feed>

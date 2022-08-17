@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Mitglied xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="mitglied-registrieren.xsd">
+    <persoenlicheDaten>
+        <anrede>Herr</anrede>
+        <AkademTitel></AkademTitel>
+        <Vorname>Wajeeh</Vorname>
+        <Nachname>Askar</Nachname>
+        <Straße>Hinter dem Hof</Straße>
+        <StraßeNr>18</StraßeNr>
+        <PLZ>35435</PLZ>
+        <Ort>Wettenberg</Ort>
+        <AbweichendeRechnungsanschrift>true</AbweichendeRechnungsanschrift>
+        <Geburtsdatum>05.05.2000</Geburtsdatum>
+        <Geburtsort>Homs</Geburtsort>
+    </persoenlicheDaten>
+    <fuehrerschein>
+        <fuehrerscheinNummer>G1807518512</fuehrerscheinNummer>
+        <ausgestelltDatum>30.12.2001</ausgestelltDatum>
+        <Behörde>Gießen</Behörde>
+    </fuehrerschein>
+    <kontakt>
+        <Email>Asdf@aff.dli</Email>
+        <Mobilnummer>00491234567891</Mobilnummer>
+        <Passwort>aasdA</Passwort>
+    </kontakt>
+    <lastschrift></lastschrift>
+    <kundenWerdenKunden></kundenWerdenKunden>
+    <gutscheine></gutscheine>
+    <agb></agb>
+</Mitglied>

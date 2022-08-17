@@ -1,0 +1,49 @@
+body{
+    font-family: 'Segoe UI', sans-serif;
+    font-size:0.9rem;
+    background-color: lightgrey;
+}
+div{
+    display: inline-block;
+}
+section, fieldset{
+    margin: 15px auto;
+    padding: 1rem 2rem;
+    border: 1px solid #000;
+    border-radius: 20px;
+    box-shadow: 3px 3px 2px 2px rgba(0,0,0,0.5);
+}
+Strong{
+    color: red;
+}
+form{
+    position: sticky;
+    top: 0;
+}
+fieldset{
+    background-color: lightgray;
+    color: darkred;
+}
+h1{
+    color: darkred;
+}
+button{
+    background-color: darkred;
+    color:white;
+    border-radius: 8px;
+    width: 100%;
+}
+#button{
+    background-color: darkred;
+    color:white;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: rgb(228, 149, 149);
+    color: black;
+}
+table{
+    border-collapse: collapse;
+    min-width: 25rem;
+    max-width: 25rem;
+}

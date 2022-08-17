@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="transform-to-html5.xsl" type="text/xsl"?>
+<!-- generator="FeedCreator 1.6" -->
+<feed xmlns="http://www.w3.org/2005/Atom"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xml:lang="de">
+    <title type="html">Golem.de - Automobil</title>
+    <subtitle type="html">IT-News fuer Profis</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://rss.golem.de/rss.php?ms=auto&amp;feed=ATOM1.0"/>
+    <link rel="alternate" type="text/html" href="https://www.golem.de/specials/auto/"/>
+    <id>https://www.golem.de/specials/auto/</id>
+    <logo>https://www.golem.de/staticrl/images/golem-rss.png</logo>
+    <icon>https://www.golem.de/favicon.ico</icon>
+    <updated>2022-06-22T08:07:32+02:00</updated>
+    <generator>FeedCreator 1.6</generator>
+    <entry>
+        <title type="html">Günstigere Tarife: VW testet flexibles Laden von Elektroautos</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/guenstigere-tarife-vw-testet-flexibles-laden-von-elektroautos-2206-166315.html"/>
+        <published>2022-06-22T07:58:07+02:00</published>
+        <updated>2022-06-22T07:58:07+02:00</updated>
+        <id>https://www.golem.de/news/guenstigere-tarife-vw-testet-flexibles-laden-von-elektroautos-2206-166315.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Anstatt Windräder bei Überproduktion abzuregeln, sollen Elektroautos flexibel den Strom aufnehmen. Davon sollen auch die Netzbetreiber profitieren. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/auto/&quot;&gt;Auto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166315&amp;amp;page=1&amp;amp;ts=1655877482&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Sicherheitsbedenken: Chinesischer Funktionärsbadeort verbannt Teslas</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/sicherheitsbedenken-chinesischer-funktionaersbadeort-verbannt-teslas-2206-166309.html"/>
+        <published>2022-06-21T17:19:11+02:00</published>
+        <updated>2022-06-21T17:19:11+02:00</updated>
+        <id>https://www.golem.de/news/sicherheitsbedenken-chinesischer-funktionaersbadeort-verbannt-teslas-2206-166309.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mindestens zwei Monate in diesem Sommer dürfen Teslas nicht nach Beidaihe fahren. Grund könnten die Kameras an den Elektroautos sein. (&lt;a href=&quot;https://www.golem.de/specials/tesla/&quot;&gt;Tesla&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166309&amp;amp;page=1&amp;amp;ts=1655824742&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Testprojekt bei Frankfurt: Der ÖPNV fährt in die autonome Zukunft</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/verkehrsverbund-rhein-main-autonomer-oepnv-startet-mit-mobileye-und-nio-2206-166299.html"/>
+        <published>2022-06-21T14:19:11+02:00</published>
+        <updated>2022-06-21T14:19:11+02:00</updated>
+        <id>https://www.golem.de/news/verkehrsverbund-rhein-main-autonomer-oepnv-startet-mit-mobileye-und-nio-2206-166299.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Im Rhein-Main-Gebiet sind künftig selbstfahrende Autos mit Regelgeschwindigkeit unterwegs. Eine Person soll fünf Fahrzeuge aus der Ferne überwachen. (&lt;a href=&quot;https://www.golem.de/specials/autonomesfahren/&quot;&gt;Autonomes Fahren&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/intel/&quot;&gt;Intel&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166299&amp;amp;page=1&amp;amp;ts=1655813942&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektromobilität: BASF baut Akku-Recyclinganlage in Schwarzheide</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektromobilitaet-basf-baut-akku-recyclinganlage-in-schwarzheide-2206-166297.html"/>
+        <published>2022-06-21T13:15:09+02:00</published>
+        <updated>2022-06-21T13:15:09+02:00</updated>
+        <id>https://www.golem.de/news/elektromobilitaet-basf-baut-akku-recyclinganlage-in-schwarzheide-2206-166297.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Für Akkus für Elektroautos werden Rohstoffe benötigt. BASF will diese aus alten Akkus gewinnen. (&lt;a href=&quot;https://www.golem.de/specials/recycling/&quot;&gt;Recycling&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/greenit/&quot;&gt;GreenIT&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166297&amp;amp;page=1&amp;amp;ts=1655810102&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Tesla: Musk will bis zu 3,5 Prozent der Tesla-Mitarbeiter entlassen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/tesla-musk-will-bis-zu-3-5-prozent-der-tesla-mitarbeiter-entlassen-2206-166294.html"/>
+        <published>2022-06-21T12:45:06+02:00</published>
+        <updated>2022-06-21T12:45:06+02:00</updated>
+        <id>https://www.golem.de/news/tesla-musk-will-bis-zu-3-5-prozent-der-tesla-mitarbeiter-entlassen-2206-166294.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Entlassungen bei Tesla betreffen Elon Musk zufolge das Management, in den Fabriken sollen neue Mitarbeiter eingestellt werden. (&lt;a href=&quot;https://www.golem.de/specials/tesla/&quot;&gt;Tesla&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166294&amp;amp;page=1&amp;amp;ts=1655808302&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Ferngesteuertes Auto ausprobiert: Wenn 4G für das Autofahren nicht ausreicht</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ferngesteuertes-auto-ausprobiert-wenn-4g-fuer-das-autofahren-nicht-ausreicht-2206-166058.html"/>
+        <published>2022-06-21T12:04:10+02:00</published>
+        <updated>2022-06-21T12:04:10+02:00</updated>
+        <id>https://www.golem.de/news/ferngesteuertes-auto-ausprobiert-wenn-4g-fuer-das-autofahren-nicht-ausreicht-2206-166058.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Carsharing-Anbieter Elmo zeigt uns seine Lösung für ferngesteuertes Fahren in Städten und stößt dabei an die Grenzen der deutschen Mobilfunknetze. (&lt;a href=&quot;https://www.golem.de/specials/elektromobilitaet/&quot;&gt;Elektromobilität&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166058&amp;amp;page=1&amp;amp;ts=1655805842&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">USA: Tesla soll Kündigungsfrist von Mitarbeitern missachtet haben</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/usa-tesla-soll-kuendigungsfrist-von-mitarbeitern-missachtet-haben-2206-166281.html"/>
+        <published>2022-06-21T08:40:03+02:00</published>
+        <updated>2022-06-21T08:40:03+02:00</updated>
+        <id>https://www.golem.de/news/usa-tesla-soll-kuendigungsfrist-von-mitarbeitern-missachtet-haben-2206-166281.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Zwei ehemalige Mitarbeiter verklagen Tesla, weil das Unternehmen die Kündigung ohne Einhaltung einer gesetzlichen Frist ausgesprochen hat. (&lt;a href=&quot;https://www.golem.de/specials/tesla/&quot;&gt;Tesla&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166281&amp;amp;page=1&amp;amp;ts=1655793602&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektroautos: BMW baut E-Motor der nächsten Generation in Steyr</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektroautos-bmw-baut-e-motor-der-naechsten-generation-in-steyr-2206-166283.html"/>
+        <published>2022-06-21T08:27:05+02:00</published>
+        <updated>2022-06-21T08:27:05+02:00</updated>
+        <id>https://www.golem.de/news/elektroautos-bmw-baut-e-motor-der-naechsten-generation-in-steyr-2206-166283.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">BMW will ab 2025 in Steyr die E-Antriebe der nächsten Generation entwickeln und bauen. Dafür wird viel Geld investiert. (&lt;a href=&quot;https://www.golem.de/specials/bmw/&quot;&gt;BMW&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166283&amp;amp;page=1&amp;amp;ts=1655792822&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektroauto: KFZ-Hersteller gegen Streichung der E-Auto-Kaufprämie</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektroauto-kfz-hersteller-gegen-streichung-der-e-auto-kaufpraemie-2206-166244.html"/>
+        <published>2022-06-19T15:00:06+02:00</published>
+        <updated>2022-06-19T15:00:06+02:00</updated>
+        <id>https://www.golem.de/news/elektroauto-kfz-hersteller-gegen-streichung-der-e-auto-kaufpraemie-2206-166244.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Christian Lindner will die Prämie beim Kauf von E-Autos abschaffen - die Autohersteller finden das nicht so gut und pochen auf den Koalitionsvertrag. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166244&amp;amp;page=1&amp;amp;ts=1655643602&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Schuldenbremse: Christian Lindner will Prämien für E-Autos abschaffen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/schuldenbremse-christian-lindner-will-praemien-fuer-e-autos-abschaffen-2206-166240.html"/>
+        <published>2022-06-18T14:25:02+02:00</published>
+        <updated>2022-06-18T14:25:02+02:00</updated>
+        <id>https://www.golem.de/news/schuldenbremse-christian-lindner-will-praemien-fuer-e-autos-abschaffen-2206-166240.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Schuldenbremse soll 2023 wieder eingehalten werden. Finanzminister Lindner (FDP) will unter anderem die E-Auto-Kaufprämien streichen. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/auto/&quot;&gt;Auto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166240&amp;amp;page=1&amp;amp;ts=1655555102&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Ladestationen: Tesla öffnet Supercharger in Deutschland für Fremdmarken</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ladestationen-tesla-oeffnet-supercharger-in-deutschland-fuer-fremdmarken-2206-166239.html"/>
+        <published>2022-06-18T14:05:11+02:00</published>
+        <updated>2022-06-18T14:05:11+02:00</updated>
+        <id>https://www.golem.de/news/ladestationen-tesla-oeffnet-supercharger-in-deutschland-fuer-fremdmarken-2206-166239.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Tesla hat einige Supercharger-Ladestationen in Dänemark, Finnland, Deutschland, Luxemburg und der Schweiz für Fremdmarken geöffnet. Billig ist das Laden nicht. (&lt;a href=&quot;https://www.golem.de/specials/tesla/&quot;&gt;Tesla&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166239&amp;amp;page=1&amp;amp;ts=1655553902&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">IG Metall: Tesla mit großem Lohngefälle in Grünheide</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ig-metall-tesla-mit-grossen-lohngefaelle-in-gruenheide-2206-166236.html"/>
+        <published>2022-06-18T13:30:08+02:00</published>
+        <updated>2022-06-18T13:30:08+02:00</updated>
+        <id>https://www.golem.de/news/ig-metall-tesla-mit-grossen-lohngefaelle-in-gruenheide-2206-166236.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Fachkräftemangel macht Tesla zu schaffen, so dass bei Neueinstellungen höhere Gehälter möglich sind. Die Stammbelegschaft hat davon nichts. (&lt;a href=&quot;https://www.golem.de/specials/gigafactory-berlin/&quot;&gt;Gigafactory Berlin&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166236&amp;amp;page=1&amp;amp;ts=1655551802&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Probefahrt mit Vivaro-e Hydrogen: Der Opel mit den drei Gastanks</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/probefahrt-mit-vivaro-e-hydrogen-der-opel-mit-den-drei-gastanks-2206-166202.html"/>
+        <published>2022-06-17T09:00:07+02:00</published>
+        <updated>2022-06-17T09:00:07+02:00</updated>
+        <id>https://www.golem.de/news/probefahrt-mit-vivaro-e-hydrogen-der-opel-mit-den-drei-gastanks-2206-166202.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Opel bietet noch in diesem Jahr einen Transporter mit Brennstoffzellenantrieb an. Wir sind den Vivaro-e Hydrogen Probe gefahren und haben uns die Produktion angeschaut. (&lt;a href=&quot;https://www.golem.de/specials/brennstoffzelle/&quot;&gt;Brennstoffzelle&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166202&amp;amp;page=1&amp;amp;ts=1655449205&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Infotainmentsystem: Warum Apple Carplay noch nicht die Autos übernimmt</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/infotainmentsystem-warum-apple-carplay-noch-nicht-die-autos-uebernimmt-2206-166201.html"/>
+        <published>2022-06-17T07:00:04+02:00</published>
+        <updated>2022-06-17T07:00:04+02:00</updated>
+        <id>https://www.golem.de/news/infotainmentsystem-warum-apple-carplay-noch-nicht-die-autos-uebernimmt-2206-166201.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Das neue Carplay von Apple wird als Vorstufe für ein eigenes Auto-Betriebssystem gesehen. Doch noch evaluieren die Hersteller, wie sie die Funktionen integrieren können - und wollen. (&lt;a href=&quot;https://www.golem.de/specials/apple/&quot;&gt;Apple&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/iphone/&quot;&gt;iPhone&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166201&amp;amp;page=1&amp;amp;ts=1655442003&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Klimaschutz: Was bedeutet das Verbrenner-Aus ab 2035?</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/klimaschutz-was-bedeutet-das-verbrenner-aus-ab-2035-2206-166159.html"/>
+        <published>2022-06-16T12:01:11+02:00</published>
+        <updated>2022-06-16T12:01:11+02:00</updated>
+        <id>https://www.golem.de/news/klimaschutz-was-bedeutet-das-verbrenner-aus-ab-2035-2206-166159.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Nach den Plänen der EU könnten in 13 Jahren Benzin- und Diesel-Pkw aus den Autohäusern verschwunden sein. Doch ist das wirklich sinnvoll? (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166159&amp;amp;page=1&amp;amp;ts=1655373662&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Auslieferungstopp: Ford muss 48.924 Mustang Mach-E zurückrufen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/auslieferungstopp-ford-muss-48-924-mustang-mach-e-zurueckrufen-2206-166182.html"/>
+        <published>2022-06-16T10:35:04+02:00</published>
+        <updated>2022-06-16T10:35:04+02:00</updated>
+        <id>https://www.golem.de/news/auslieferungstopp-ford-muss-48-924-mustang-mach-e-zurueckrufen-2206-166182.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Das Elektroauto Ford Mustang Mach-E muss ein Software-Update erhalten, weil ein Fehler dazu führen kann, das die Weiterfahrt unmöglich wird. (&lt;a href=&quot;https://www.golem.de/specials/ford-mustang/&quot;&gt;Ford Mustang&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166182&amp;amp;page=1&amp;amp;ts=1655368502&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Second Life: Alte Akkus aus Audi E-Trons für Elektro-Rikschas in Indien</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/second-life-alte-akkus-aus-audi-e-trons-fuer-elektro-rikschas-in-indien-2206-166180.html"/>
+        <published>2022-06-16T10:05:02+02:00</published>
+        <updated>2022-06-16T10:05:02+02:00</updated>
+        <id>https://www.golem.de/news/second-life-alte-akkus-aus-audi-e-trons-fuer-elektro-rikschas-in-indien-2206-166180.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Alte E-Autobatterien sind noch lange nicht reif für den Schrott, wie Audi in Indien zeigt. Dort werden sie in elektrische Rikschas eingebaut. (&lt;a href=&quot;https://www.golem.de/specials/audi/&quot;&gt;Audi&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166180&amp;amp;page=1&amp;amp;ts=1655366702&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Bitcoin: Tesla verliert im Krypto-Winter 600 Millionen Dollar</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/bitcoin-tesla-verliert-im-krypto-winter-600-millionen-dollar-2206-166175.html"/>
+        <published>2022-06-16T08:52:07+02:00</published>
+        <updated>2022-06-16T08:52:07+02:00</updated>
+        <id>https://www.golem.de/news/bitcoin-tesla-verliert-im-krypto-winter-600-millionen-dollar-2206-166175.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Tesla hat 2021 rund 1,5 Milliarden US-Dollar in Bitcoins investiert. Nun sind Buchverluste in Höhe von etwa 600 Millionen US-Dollar entstanden. (&lt;a href=&quot;https://www.golem.de/specials/bitcoin/&quot;&gt;Bitcoin&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/tesla/&quot;&gt;Tesla&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166175&amp;amp;page=1&amp;amp;ts=1655362322&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Autonomes Fahren: Tesla meldet die meisten Unfälle mit Autopilot</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/autonomes-fahren-tesla-meldet-die-meisten-unfaelle-mit-autopilot-2206-166171.html"/>
+        <published>2022-06-15T18:40:03+02:00</published>
+        <updated>2022-06-15T18:40:03+02:00</updated>
+        <id>https://www.golem.de/news/autonomes-fahren-tesla-meldet-die-meisten-unfaelle-mit-autopilot-2206-166171.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die USA haben erstmals Statistiken über Unfälle mit teil- bis vollautomatisierten Autos veröffentlicht. Deutsche Hersteller tauchen darin kaum auf. (&lt;a href=&quot;https://www.golem.de/specials/autonomesfahren/&quot;&gt;Autonomes Fahren&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166171&amp;amp;page=1&amp;amp;ts=1655311202&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Akkutechnik: Our Next Energy baut Akku für 1.000 km-BMW-Prototyp</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/akkutechnik-our-next-energy-baut-akku-fuer-1-000-km-bmw-prototyp-2206-166141.html"/>
+        <published>2022-06-15T10:35:03+02:00</published>
+        <updated>2022-06-15T10:35:03+02:00</updated>
+        <id>https://www.golem.de/news/akkutechnik-our-next-energy-baut-akku-fuer-1-000-km-bmw-prototyp-2206-166141.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">ONE will Akkukapazität von Elektroautos mit allen Mitteln verdoppeln und kann das auch schaffen. Fraglich ist, ob die Technik das richtige Ziel hat. (&lt;a href=&quot;https://www.golem.de/specials/elektromobilitaet/&quot;&gt;Elektromobilität&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166141&amp;amp;page=1&amp;amp;ts=1655282102&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Verkaufsräume: Vietnamesische E-Autos kommen nach Deutschland</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/verkaufsraeume-vietnamesische-e-autos-kommen-nach-deutschland-2206-166137.html"/>
+        <published>2022-06-15T10:20:09+02:00</published>
+        <updated>2022-06-15T10:20:09+02:00</updated>
+        <id>https://www.golem.de/news/verkaufsraeume-vietnamesische-e-autos-kommen-nach-deutschland-2206-166137.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Vinfast will 50 Läden in Deutschland, Frankreich und den Niederlanden eröffnen, um dort die Elektroautos des Unternehmens zu verkaufen. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/auto/&quot;&gt;Auto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166137&amp;amp;page=1&amp;amp;ts=1655281202&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektroautos: Lucid Motors muss Autos zurückrufen - zum 2. Mal</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektroautos-lucid-motors-muss-autos-zurueckrufen-zum-2-mal-2206-166143.html"/>
+        <published>2022-06-15T10:05:06+02:00</published>
+        <updated>2022-06-15T10:05:06+02:00</updated>
+        <id>https://www.golem.de/news/elektroautos-lucid-motors-muss-autos-zurueckrufen-zum-2-mal-2206-166143.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Lucid Motors ruft in den USA zum zweiten Mal bereits ausgelieferte Elektroautos in die Werkstatt zurück. Grund ist eine fehlerhafte Verkabelung. (&lt;a href=&quot;https://www.golem.de/specials/auto/&quot;&gt;Auto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166143&amp;amp;page=1&amp;amp;ts=1655280303&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektroauto: Renault Zoe wird 11 Prozent teurer</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektroauto-renault-zoe-wird-11-prozent-teurer-2206-166136.html"/>
+        <published>2022-06-15T07:15:08+02:00</published>
+        <updated>2022-06-15T07:15:08+02:00</updated>
+        <id>https://www.golem.de/news/elektroauto-renault-zoe-wird-11-prozent-teurer-2206-166136.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Renault hebt die Preise für das Elektroauto Zoe in Deutschland deutlich an, nachdem das Einstiegsmodell aus dem Sortiment genommen worden ist. (&lt;a href=&quot;https://www.golem.de/specials/renault/&quot;&gt;Renault&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166136&amp;amp;page=1&amp;amp;ts=1655270102&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Geely, Hideo Kojima, Polestar: Bestell- und Liefertermine für neues Macbook Pro</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/geely-hideo-kojima-polestar-bestell-und-liefertermine-fuer-neues-macbook-pro-2206-166130.html"/>
+        <published>2022-06-14T17:02:02+02:00</published>
+        <updated>2022-06-14T17:02:02+02:00</updated>
+        <id>https://www.golem.de/news/geely-hideo-kojima-polestar-bestell-und-liefertermine-fuer-neues-macbook-pro-2206-166130.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html"> Was am 14. Juni 2022 neben den großen Meldungen sonst noch passiert ist, in aller Kürze. (&lt;a href=&quot;https://www.golem.de/specials/kurznews/&quot;&gt;Kurznews&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/apple/&quot;&gt;Apple&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166130&amp;amp;page=1&amp;amp;ts=1655218922&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Thermomanagement: Schaeffler entwickelt 4-in-1-Achse für Elektroautos</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/thermomanagement-schaeffler-entwickelt-4-in-1-achse-fuer-elektroautos-2206-166128.html"/>
+        <published>2022-06-14T16:15:10+02:00</published>
+        <updated>2022-06-14T16:15:10+02:00</updated>
+        <id>https://www.golem.de/news/thermomanagement-schaeffler-entwickelt-4-in-1-achse-fuer-elektroautos-2206-166128.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Autozulieferer Schaeffler hat einen neuen elektrischen Achsenantrieb für Elektroautos entwickelt, der deutlich effizienter arbeiten soll. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166128&amp;amp;page=1&amp;amp;ts=1655216102&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektroauto-Produktion: Tesla nimmt Konkurrenten überflüssige Arbeitskräfte ab</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektroauto-produktion-tesla-nimmt-konkurrenten-ueberfluessige-arbeitskraefte-ab-2206-166115.html"/>
+        <published>2022-06-14T13:00:08+02:00</published>
+        <updated>2022-06-14T13:00:08+02:00</updated>
+        <id>https://www.golem.de/news/elektroauto-produktion-tesla-nimmt-konkurrenten-ueberfluessige-arbeitskraefte-ab-2206-166115.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">In Teslas Werk Gigafactory Berlin werden zahlreiche Stellen besetzt, bislang sind 4.100 bis 4.500 Personen dort beschäftigt. (&lt;a href=&quot;https://www.golem.de/specials/tesla/&quot;&gt;Tesla&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166115&amp;amp;page=1&amp;amp;ts=1655204403&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektroautos: VW-Werk Zwickau produziert wieder im Drei-Schicht-Betrieb</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektroautos-vw-werk-zwickau-produziert-wieder-im-drei-schicht-betrieb-2206-166082.html"/>
+        <published>2022-06-13T14:45:04+02:00</published>
+        <updated>2022-06-13T14:45:04+02:00</updated>
+        <id>https://www.golem.de/news/elektroautos-vw-werk-zwickau-produziert-wieder-im-drei-schicht-betrieb-2206-166082.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Nach mehreren Monaten Unterbrechung nimmt die Zwickauer Elektroauto-Fabrik von VW wieder die nächtliche Produktion auf. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/auto/&quot;&gt;Auto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166082&amp;amp;page=1&amp;amp;ts=1655124302&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Energiewende: Toyota stellt 8,7-kWh-Hausakku auf Basis eines Autoakkus vor</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/energiewende-toyota-stellt-8-7-kwh-hausakku-auf-basis-eines-autoakkus-vor-2206-166064.html"/>
+        <published>2022-06-13T10:30:06+02:00</published>
+        <updated>2022-06-13T10:30:06+02:00</updated>
+        <id>https://www.golem.de/news/energiewende-toyota-stellt-8-7-kwh-hausakku-auf-basis-eines-autoakkus-vor-2206-166064.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Toyota hat einen Hausakku mit einer Nennleistung von 5,5 kW und einer Kapazität von 8,7 kWh vorgestellt, der im Außenbereich installiert werden kann. (&lt;a href=&quot;https://www.golem.de/specials/toyota/&quot;&gt;Toyota&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166064&amp;amp;page=1&amp;amp;ts=1655109002&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Sparkurs: Cluno stoppt Autoabo-Angebot</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/sparkurs-cluno-stoppt-autoabo-angebot-2206-166055.html"/>
+        <published>2022-06-13T07:17:07+02:00</published>
+        <updated>2022-06-13T07:17:07+02:00</updated>
+        <id>https://www.golem.de/news/sparkurs-cluno-stoppt-autoabo-angebot-2206-166055.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Sparkurs des britischen Mutterunternehmens Cazoo hat Folgen für das deutsche Autoaboangebot: Cluno nimmt keine Kunden mehr an. (&lt;a href=&quot;https://www.golem.de/specials/auto/&quot;&gt;Auto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166055&amp;amp;page=1&amp;amp;ts=1655097422&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Solarauto: Lightyear 0 fährt 625 km und ist mit Solarzellen bepflastert</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/solarauto-lightyear-0-faehrt-625-km-und-ist-mit-solarzellen-bepflastert-2206-166052.html"/>
+        <published>2022-06-12T12:05:04+02:00</published>
+        <updated>2022-06-12T12:05:04+02:00</updated>
+        <id>https://www.golem.de/news/solarauto-lightyear-0-faehrt-625-km-und-ist-mit-solarzellen-bepflastert-2206-166052.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Lightyear hat eine Serienzulassung für sein Solarauto Lightyear 0 mit 5 Quadratmeter Photovoltaik erhalten. Dank guter Aerodynamik ist die Reichweite hoch. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166052&amp;amp;page=1&amp;amp;ts=1655028302&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektroauto: So sieht der ID.3-Konkurrent MG4 aus</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektroauto-so-sieht-der-id-3-konkurrent-mg4-aus-2206-166047.html"/>
+        <published>2022-06-11T19:30:09+02:00</published>
+        <updated>2022-06-11T19:30:09+02:00</updated>
+        <id>https://www.golem.de/news/elektroauto-so-sieht-der-id-3-konkurrent-mg4-aus-2206-166047.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">MG Motor hat Bilder des Kompakt-Elektroautos MG4 veröffentlicht, das gegen den ID.3 von Volkswagen positioniert wird. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166047&amp;amp;page=1&amp;amp;ts=1654968602&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Witricity: Siemens will kabelloses Laden für E-Autos forcieren</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/witricity-siemens-will-kabelloses-laden-fuer-e-autos-forcieren-2206-166044.html"/>
+        <published>2022-06-11T12:05:06+02:00</published>
+        <updated>2022-06-11T12:05:06+02:00</updated>
+        <id>https://www.golem.de/news/witricity-siemens-will-kabelloses-laden-fuer-e-autos-forcieren-2206-166044.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Siemens investiert in WiTricity, das Lösungen für kabelloses Laden von Elektroautos anbietet. Es sollen neue Standards entwickelt werden. (&lt;a href=&quot;https://www.golem.de/specials/siemens/&quot;&gt;Siemens&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166044&amp;amp;page=1&amp;amp;ts=1654941902&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">NHTSA: Untersuchung von Teslas Autopilot ausgedehnt</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/nhtsa-untersuchung-von-teslas-autopilot-ausgedehnt-2206-165997.html"/>
+        <published>2022-06-10T07:50:09+02:00</published>
+        <updated>2022-06-10T07:50:09+02:00</updated>
+        <id>https://www.golem.de/news/nhtsa-untersuchung-von-teslas-autopilot-ausgedehnt-2206-165997.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die US-Verkehrsbehörde hat nach Kollisionen mit parkenden Einsatzfahrzeugen die nächste Untersuchungsstufe gegen Teslas Autopilot eingeleitet. (&lt;a href=&quot;https://www.golem.de/specials/tesla/&quot;&gt;Tesla&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165997&amp;amp;page=1&amp;amp;ts=1654840202&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">E-Fuels statt Elektroauto: FDP gegen Verbrenner-Aus ab 2035</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/e-fuels-statt-elektroauto-fdp-gegen-verbrenner-aus-ab-2035-2206-165992.html"/>
+        <published>2022-06-09T16:15:04+02:00</published>
+        <updated>2022-06-09T16:15:04+02:00</updated>
+        <id>https://www.golem.de/news/e-fuels-statt-elektroauto-fdp-gegen-verbrenner-aus-ab-2035-2206-165992.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">In der Bundesregierung droht Streit wegen des Ausstiegs aus dem Verbrennerantrieb. Die Minister Lindner und Wissing setzen auf E-Fuels. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165992&amp;amp;page=1&amp;amp;ts=1654784102&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Autonomes Fahren: Experten wollen automatisiertes Fahren mit 130 km/h zulassen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/autonomes-fahren-experten-wollen-automatisiertes-fahren-mit-130-km-h-zulassen-2206-165990.html"/>
+        <published>2022-06-09T16:00:03+02:00</published>
+        <updated>2022-06-09T16:00:03+02:00</updated>
+        <id>https://www.golem.de/news/autonomes-fahren-experten-wollen-automatisiertes-fahren-mit-130-km-h-zulassen-2206-165990.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Bisher darf der Staupilot von Mercedes nur 60 km/h auf der Autobahn fahren. Das könnte sich bald ändern. (&lt;a href=&quot;https://www.golem.de/specials/politik-recht/&quot;&gt;Politik/Recht&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/auto/&quot;&gt;Auto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165990&amp;amp;page=1&amp;amp;ts=1654783203&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Klimaschutz: Europaparlament stimmt für Verbrennerverbot ab 2035</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/klimaschutz-europaparlament-stimmt-fuer-verbrennerverbot-ab-2035-2206-165967.html"/>
+        <published>2022-06-09T10:45:09+02:00</published>
+        <updated>2022-06-09T10:45:09+02:00</updated>
+        <id>https://www.golem.de/news/klimaschutz-europaparlament-stimmt-fuer-verbrennerverbot-ab-2035-2206-165967.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Verkehrswende kommt näher. Beschlossen ist das Verbot von Autos mit Verbrennungsmotor aber noch nicht. (&lt;a href=&quot;https://www.golem.de/specials/politik-recht/&quot;&gt;Politik/Recht&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165967&amp;amp;page=1&amp;amp;ts=1654764302&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektroauto: Genesis G80 ermöglicht Kaffeekochen auf dem Rastplatz</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektroauto-genesis-g80-ermoeglicht-kaffeekochen-auf-dem-rastplatz-2206-165964.html"/>
+        <published>2022-06-09T10:00:06+02:00</published>
+        <updated>2022-06-09T10:00:06+02:00</updated>
+        <id>https://www.golem.de/news/elektroauto-genesis-g80-ermoeglicht-kaffeekochen-auf-dem-rastplatz-2206-165964.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Genesis Electrified G80 ist eine große Elektroauto-Limousine, die schnell lädt, weit fährt und mit einem Solardach und V2L ausgestattet ist. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165964&amp;amp;page=1&amp;amp;ts=1654761602&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektroauto: Mercedes bringt den EQE im Abo</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektroauto-mercedes-bringt-den-eqe-im-abo-2206-165960.html"/>
+        <published>2022-06-09T07:52:02+02:00</published>
+        <updated>2022-06-09T07:52:02+02:00</updated>
+        <id>https://www.golem.de/news/elektroauto-mercedes-bringt-den-eqe-im-abo-2206-165960.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Mercedes EQE ist jetzt auch im Abo erhältlich. Das Elektroauto wird in zwei Ausstattungen angeboten. (&lt;a href=&quot;https://www.golem.de/specials/mercedes-benz/&quot;&gt;Mercedes Benz&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165960&amp;amp;page=1&amp;amp;ts=1654753922&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Fazua: Porsche übernimmt E-Bike-Spezialisten</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/fazua-porsche-uebernimmt-e-bike-spezialisten-2206-165961.html"/>
+        <published>2022-06-09T07:14:03+02:00</published>
+        <updated>2022-06-09T07:14:03+02:00</updated>
+        <id>https://www.golem.de/news/fazua-porsche-uebernimmt-e-bike-spezialisten-2206-165961.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Porsche baut seine Elektrofahrrad-Kompetenz aus und hat das Unternehmen Fazua komplett übernommen, das kompakte Antriebssysteme für E-Bikes baut. (&lt;a href=&quot;https://www.golem.de/specials/e-bike/&quot;&gt;E-Bike&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/auto/&quot;&gt;Auto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165961&amp;amp;page=1&amp;amp;ts=1654751642&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Elektroauto: Aptera kündigt Serienproduktion seines Solarautos an</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/elektroauto-aptera-kuendigt-serienproduktion-seines-solarautos-an-2206-165949.html"/>
+        <published>2022-06-08T15:21:11+02:00</published>
+        <updated>2022-06-08T15:21:11+02:00</updated>
+        <id>https://www.golem.de/news/elektroauto-aptera-kuendigt-serienproduktion-seines-solarautos-an-2206-165949.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Das stromlinienförmige Elektroauto mit den Solarzellen auf dem Dach soll ab Ende des Jahres gebaut werden. Aptera hat 40 Millionen US-Dollar für die Serienfertigung gesammelt. (&lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/google/&quot;&gt;Google&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165949&amp;amp;page=1&amp;amp;ts=1654694462&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+</feed>

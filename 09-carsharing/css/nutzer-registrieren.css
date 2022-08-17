@@ -1,0 +1,46 @@
+html {
+    font-size: 100%;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    background-color: ghostwhite;
+}
+
+fieldset {
+    max-width: 450px;
+    margin: auto;
+}
+
+label, input[type=text], input[type=password], input[type=email] {
+    display: inline-block;
+    width: 11rem;
+}
+
+#viewPassword, #viewPasswordCheck, #pwsMatch, #pwsNoMatch {
+    padding: 0 0 0 0.5rem;
+    margin-bottom: -0.2rem;
+}
+
+#viewPassword, #viewPasswordCheck {
+    opacity: 0.4;
+}
+
+#viewPassword.on,
+#viewPasswordCheck.on {
+    opacity: 1;
+}
+
+#pwsMatch, #pwsNoMatch {
+    display: none;
+}
+
+#pwsMatch.ok,
+#pwsNoMatch.ok
+ {
+    display: inline;
+}
+
+#hinweis    { opacity: 0; color: red; }
+#hinweis.an { opacity: 1; }

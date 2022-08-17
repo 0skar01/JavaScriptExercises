@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="transform-to-html5.xsl" type="text/xsl"?>
+<!-- generator="FeedCreator 1.6" -->
+<feed xmlns="http://www.w3.org/2005/Atom"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xml:lang="de">
+    <title type="html">Golem.de - Security</title>
+    <subtitle type="html">IT-News fuer Profis</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://rss.golem.de/rss.php?ms=security&amp;feed=ATOM1.0"/>
+    <link rel="alternate" type="text/html" href="https://www.golem.de/specials/security/"/>
+    <id>https://www.golem.de/specials/security/</id>
+    <logo>https://www.golem.de/staticrl/images/golem-rss.png</logo>
+    <icon>https://www.golem.de/favicon.ico</icon>
+    <updated>2022-06-22T08:06:07+02:00</updated>
+    <generator>FeedCreator 1.6</generator>
+    <entry>
+        <title type="html">EuGH: Verarbeitung von Fluggastdaten beschränken</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/eugh-verarbeitung-von-fluggastdaten-beschraenken-2206-166300.html"/>
+        <published>2022-06-21T14:00:08+02:00</published>
+        <updated>2022-06-21T14:00:08+02:00</updated>
+        <id>https://www.golem.de/news/eugh-verarbeitung-von-fluggastdaten-beschraenken-2206-166300.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Verarbeitung Fluggastdaten (PNR) muss laut einem Urteil des EuGH auf das Notwendigste beschränkt werden. (&lt;a href=&quot;https://www.golem.de/specials/eugh/&quot;&gt;EuGH&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166300&amp;amp;page=1&amp;amp;ts=1655812808&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Super-Cookie Trustpid: Vertrauen wäre gut, Datenschutz noch besser</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/super-cookie-trustpid-vertrauen-ist-gut-datenschutz-waere-besser-2206-166259.html"/>
+        <published>2022-06-20T14:00:12+02:00</published>
+        <updated>2022-06-20T14:00:12+02:00</updated>
+        <id>https://www.golem.de/news/super-cookie-trustpid-vertrauen-ist-gut-datenschutz-waere-besser-2206-166259.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Provider Vodafone, Deutsche Telekom und Telefónica wollen in den Werbemarkt einsteigen. Noch ist offen, worauf sich Nutzer dabei einlassen. (&lt;a href=&quot;https://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/telekom/&quot;&gt;Telekom&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166259&amp;amp;page=1&amp;amp;ts=1655726403&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Videokonferenz: Datenschutzbeauftragter erlaubt Zoom-Einsatz unter Auflagen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/videokonferenz-datenschutzbeauftragter-erlaubt-zoom-einsatz-unter-auflagen-2206-166255.html"/>
+        <published>2022-06-20T11:20:07+02:00</published>
+        <updated>2022-06-20T11:20:07+02:00</updated>
+        <id>https://www.golem.de/news/videokonferenz-datenschutzbeauftragter-erlaubt-zoom-einsatz-unter-auflagen-2206-166255.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">An hessischen Hochschulen darf Zoom weiter genutzt werden, sofern die Maßnahmen des Hessischen Modells umgesetzt werden. (&lt;a href=&quot;https://www.golem.de/specials/zoom/&quot;&gt;Zoom&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166255&amp;amp;page=1&amp;amp;ts=1655716802&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Datenschutz: Chinesischer Tiktok-Betreiber hat vollen Zugriff auf Daten</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/datenschutz-chinesischer-tiktok-betreiber-hat-vollen-zugriff-auf-daten-2206-166252.html"/>
+        <published>2022-06-20T10:22:04+02:00</published>
+        <updated>2022-06-20T10:22:04+02:00</updated>
+        <id>https://www.golem.de/news/datenschutz-chinesischer-tiktok-betreiber-hat-vollen-zugriff-auf-daten-2206-166252.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">&quot;Alles wird in China eingesehen&quot;, heißt es in einem geleakten Bericht des Tiktok-Konzerns Bytedance. Die Firma hat Zugriff auf US-Daten. (&lt;a href=&quot;https://www.golem.de/specials/tiktok/&quot;&gt;Tiktok&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/oracle/&quot;&gt;Oracle&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166252&amp;amp;page=1&amp;amp;ts=1655713322&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Hacker: Cyberangriff auf Grüne mit Mail-Rückläufern</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/hacker-cyberangriff-auf-gruene-mit-mail-ruecklaeufern-2206-166234.html"/>
+        <published>2022-06-18T11:36:06+02:00</published>
+        <updated>2022-06-18T11:36:06+02:00</updated>
+        <id>https://www.golem.de/news/hacker-cyberangriff-auf-gruene-mit-mail-ruecklaeufern-2206-166234.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mutmaßlich russische Hacker sollen E-Mail-Konten der Grünen angegriffen haben. Aufgefallen ist das offenbar wegen eines Anfängerfehlers. (&lt;a href=&quot;https://www.golem.de/specials/hacker/&quot;&gt;Hacker&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/cyberwar/&quot;&gt;Cyberwar&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166234&amp;amp;page=1&amp;amp;ts=1655544962&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">IT-Security: Cyberagentur schreibt Aufträge für 30 Millionen Euro aus</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/it-security-cyberagentur-schreibt-auftraege-fuer-30-millionen-euro-aus-2206-166225.html"/>
+        <published>2022-06-17T14:47:07+02:00</published>
+        <updated>2022-06-17T14:47:07+02:00</updated>
+        <id>https://www.golem.de/news/it-security-cyberagentur-schreibt-auftraege-fuer-30-millionen-euro-aus-2206-166225.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mit dem Geld sollen Vorhaben für die IT-Security unterstützt werden, die Behörden und kritischer Infrastruktur dienen. (&lt;a href=&quot;https://www.golem.de/specials/kritis/&quot;&gt;Kritis&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166225&amp;amp;page=1&amp;amp;ts=1655470022&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Security: Github informiert über Malware im Open-Source-Ökosystem</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/security-github-informiert-ueber-malware-im-open-source-oekosystem-2206-166217.html"/>
+        <published>2022-06-17T11:50:09+02:00</published>
+        <updated>2022-06-17T11:50:09+02:00</updated>
+        <id>https://www.golem.de/news/security-github-informiert-ueber-malware-im-open-source-oekosystem-2206-166217.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Nicht nur Sicherheitslücken machen Open-Source-Software anfällig. Auch Malware bereitet viele Probleme, die Github jetzt sammeln möchte. (&lt;a href=&quot;https://www.golem.de/specials/github/&quot;&gt;Github&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/malware/&quot;&gt;Malware&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166217&amp;amp;page=1&amp;amp;ts=1655459402&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Defender Individual: Microsofts Antivirentool kommt für MacOS und Smartphones</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/defender-individual-microsofts-antivirentool-kommt-fuer-macos-und-smartphones-2206-166211.html"/>
+        <published>2022-06-17T10:57:03+02:00</published>
+        <updated>2022-06-17T10:57:03+02:00</updated>
+        <id>https://www.golem.de/news/defender-individual-microsofts-antivirentool-kommt-fuer-macos-und-smartphones-2206-166211.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Microsoft bringt den Virenschutz Microsoft Defender nun auch auf MacOS, Android und iOS. Es wird in ein Microsoft-365-Abo integriert. (&lt;a href=&quot;https://www.golem.de/specials/office-365/&quot;&gt;Microsoft 365&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/windows/&quot;&gt;Windows&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166211&amp;amp;page=1&amp;amp;ts=1655456222&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Ransomware: Mainzer Stadtwerke starten neue Homepage nach IT-Angriff</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ransomware-mainzer-stadtwerke-starten-neue-homepage-nach-it-angriff-2206-166208.html"/>
+        <published>2022-06-17T10:10:11+02:00</published>
+        <updated>2022-06-17T10:10:11+02:00</updated>
+        <id>https://www.golem.de/news/ransomware-mainzer-stadtwerke-starten-neue-homepage-nach-it-angriff-2206-166208.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Nach dem Ransomware-Angriff auf einen IT-Dienstleister in Hessen reagieren die Mainzer Stadtwerke schnell und unbürokratisch. (&lt;a href=&quot;https://www.golem.de/specials/ransomware/&quot;&gt;Ransomware&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/desktop-applikationen/&quot;&gt;Applikationen&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166208&amp;amp;page=1&amp;amp;ts=1655453403&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Ubuntu, Boring Company: Microsoft fixt endlich Follina</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ubuntu-boring-company-microsoft-fixt-endlich-follina-2206-166189.html"/>
+        <published>2022-06-16T17:00:12+02:00</published>
+        <updated>2022-06-16T17:00:12+02:00</updated>
+        <id>https://www.golem.de/news/ubuntu-boring-company-microsoft-fixt-endlich-follina-2206-166189.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html"> Was am 16. Juni 2022 neben den großen Meldungen sonst noch passiert ist, in aller Kürze. (&lt;a href=&quot;https://www.golem.de/specials/kurznews/&quot;&gt;Kurznews&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/ubuntu/&quot;&gt;Ubuntu&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166189&amp;amp;page=1&amp;amp;ts=1655391603&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Hack: IT-Infrastruktur der Grünen mehrfach angegriffen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/hack-it-infrastruktur-der-gruenen-mehrfach-angegriffen-2206-166198.html"/>
+        <published>2022-06-16T15:44:10+02:00</published>
+        <updated>2022-06-16T15:44:10+02:00</updated>
+        <id>https://www.golem.de/news/hack-it-infrastruktur-der-gruenen-mehrfach-angegriffen-2206-166198.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Infrastruktur der Grünen wurde mehrmals von Hackern angegriffen. Dabei sollen auch Daten abhandengekommen sein. (&lt;a href=&quot;https://www.golem.de/specials/datenleck/&quot;&gt;Datenleck&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166198&amp;amp;page=1&amp;amp;ts=1655387042&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Datenleck: Daten von Brustkrebs- und Depressions-App abrufbar</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/datenleck-daten-von-brustkrebs-und-depressions-app-abrufbar-2206-166188.html"/>
+        <published>2022-06-16T12:30:11+02:00</published>
+        <updated>2022-06-16T12:30:11+02:00</updated>
+        <id>https://www.golem.de/news/datenleck-daten-von-brustkrebs-und-depressions-app-abrufbar-2206-166188.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Zur Behandlung von Depressionen oder Brustkrebs können Ärzte Apps verschreiben. Doch die persönlichen Daten der Patienten konnten einfach abgerufen werden. (&lt;a href=&quot;https://www.golem.de/specials/datenleck/&quot;&gt;Datenleck&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166188&amp;amp;page=1&amp;amp;ts=1655375403&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">CPU-Bug Hertzbleed: Erstmals Seitenkanalangriff über CPU-Frequenzen gelungen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/cpu-bug-hertzbleed-erstmals-seitenkanalangriff-ueber-cpu-frequenzen-gelungen-2206-166155.html"/>
+        <published>2022-06-15T12:47:07+02:00</published>
+        <updated>2022-06-15T12:47:07+02:00</updated>
+        <id>https://www.golem.de/news/cpu-bug-hertzbleed-erstmals-seitenkanalangriff-ueber-cpu-frequenzen-gelungen-2206-166155.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Frequenz von x86-CPUs hängt von den verarbeiteten Daten ab. Durch gezielte Taktänderungen lassen sich Seitenkanäle zum Ausleiten von Schlüsseln finden. (&lt;a href=&quot;https://www.golem.de/specials/cpu/&quot;&gt;Prozessor&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/verschluesselung/&quot;&gt;Verschlüsselung&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166155&amp;amp;page=1&amp;amp;ts=1655290022&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Schriesheim: 170 Gigabyte Daten bei Ransomware-Angriff auf Stadt erbeutet</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/schriesheim-170-gigabyte-daten-bei-ransomware-angriff-auf-stadt-erbeutet-2206-166144.html"/>
+        <published>2022-06-15T10:50:07+02:00</published>
+        <updated>2022-06-15T10:50:07+02:00</updated>
+        <id>https://www.golem.de/news/schriesheim-170-gigabyte-daten-bei-ransomware-angriff-auf-stadt-erbeutet-2206-166144.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Bei dem Ransomware-Angriff auf Schriesheim vor einigen Wochen sind auch persönliche Daten von Bürgern im Darknet aufgetaucht. (&lt;a href=&quot;https://www.golem.de/specials/ransomware/&quot;&gt;Ransomware&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/malware/&quot;&gt;Malware&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166144&amp;amp;page=1&amp;amp;ts=1655283003&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Frankfurt, Darmstadt, Mainz: Stadtwerke und ÖPNV mit Ransomware angegriffen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/frankfurt-darmstadt-mainz-stadtwerke-und-oepnv-mit-ransomware-angegriffen-2206-166122.html"/>
+        <published>2022-06-14T14:03:04+02:00</published>
+        <updated>2022-06-14T14:03:04+02:00</updated>
+        <id>https://www.golem.de/news/frankfurt-darmstadt-mainz-stadtwerke-und-oepnv-mit-ransomware-angegriffen-2206-166122.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Ein IT-Dienstleister mehrerer Energieversorger sowie Betreiber des öffentlichen Nahverkehrs wurde mit einer Ransomware angegriffen. Die Ermittlungen dauern an. (&lt;a href=&quot;https://www.golem.de/specials/ransomware/&quot;&gt;Ransomware&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166122&amp;amp;page=1&amp;amp;ts=1655208182&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">CCC: Chaos Communication Congress soll in Hamburg stattfinden</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ccc-chaos-communication-congress-soll-in-hamburg-stattfinden-2206-166112.html"/>
+        <published>2022-06-14T11:17:04+02:00</published>
+        <updated>2022-06-14T11:17:04+02:00</updated>
+        <id>https://www.golem.de/news/ccc-chaos-communication-congress-soll-in-hamburg-stattfinden-2206-166112.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Dieses Jahr soll wieder ein physischer Chaos Communication Congress stattfinden. In Hamburg wird der Hackerkongress jedoch deutlich kleiner ausfallen. (&lt;a href=&quot;https://www.golem.de/specials/ccc/&quot;&gt;CCC&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/messe/&quot;&gt;Messe&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166112&amp;amp;page=1&amp;amp;ts=1655198222&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Entega, FES &amp; Stadtwerke: Cyberangriff hat Auswirkungen auf Mainzer Mobilität</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/entega-fes-stadtwerke-cyberangriff-hat-auswirkungen-auf-mainzer-mobilitaet-2206-166103.html"/>
+        <published>2022-06-14T09:54:05+02:00</published>
+        <updated>2022-06-14T09:54:05+02:00</updated>
+        <id>https://www.golem.de/news/entega-fes-stadtwerke-cyberangriff-hat-auswirkungen-auf-mainzer-mobilitaet-2206-166103.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Ein Hackerangriff auf einen IT-Dienstleister betrifft auch den öffentlichen Nahverkehr in Mainz und Umgebung. Beispielsweise können Fahrten ausfallen. (&lt;a href=&quot;https://www.golem.de/specials/oepnv/&quot;&gt;ÖPNV&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/server/&quot;&gt;Server&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166103&amp;amp;page=1&amp;amp;ts=1655193242&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Entega: Weitere Unternehmen von Hackerangriff betroffen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/entega-weitere-unternehmen-von-hackerangriff-betroffen-2206-166087.html"/>
+        <published>2022-06-13T16:45:10+02:00</published>
+        <updated>2022-06-13T16:45:10+02:00</updated>
+        <id>https://www.golem.de/news/entega-weitere-unternehmen-von-hackerangriff-betroffen-2206-166087.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Ein Hackerangriff auf Entega hat auch die Stadtwerke Mainz sowie die Entsorgungsfirma FES getroffen. Sie alle nutzen den gleichen IT-Dienstleister. (&lt;a href=&quot;https://www.golem.de/specials/security/&quot;&gt;Security&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/server/&quot;&gt;Server&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166087&amp;amp;page=1&amp;amp;ts=1655131503&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Strom &amp; Gas: Hackerangriff beim Energieversorger Entega</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/strom-gas-hackerangriff-beim-energieversorger-entega-2206-166066.html"/>
+        <published>2022-06-13T11:00:09+02:00</published>
+        <updated>2022-06-13T11:00:09+02:00</updated>
+        <id>https://www.golem.de/news/strom-gas-hackerangriff-beim-energieversorger-entega-2206-166066.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die E-Mail-Konten der Angestellten sowie die Webseite des Darmstädter Unternehmens sind derzeit nicht erreichbar. (&lt;a href=&quot;https://www.golem.de/specials/security/&quot;&gt;Security&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166066&amp;amp;page=1&amp;amp;ts=1655110803&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Digitalpolitik: Bundesminister Volker Wissing muss Geld und Macht teilen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/digitalpolitik-bundesminister-volker-wissing-muss-geld-und-macht-teilen-2206-166046.html"/>
+        <published>2022-06-11T13:50:08+02:00</published>
+        <updated>2022-06-11T13:50:08+02:00</updated>
+        <id>https://www.golem.de/news/digitalpolitik-bundesminister-volker-wissing-muss-geld-und-macht-teilen-2206-166046.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Das Verkehrs- und Digitalministerium muss sich bei der Digitalisierung jetzt mit dem Bundeskanzleramt und anderen Ministerien abstimmen. (&lt;a href=&quot;https://www.golem.de/specials/volker-wissing/&quot;&gt;Volker Wissing&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/security/&quot;&gt;Security&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166046&amp;amp;page=1&amp;amp;ts=1654948202&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Sichere mobile Kommunikation: Samsung und BSI intensivieren Zusammenarbeit</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/sichere-mobile-kommunikation-samsung-und-bsi-intensivieren-zusammenarbeit-2206-166028.html"/>
+        <published>2022-06-10T15:45:10+02:00</published>
+        <updated>2022-06-10T15:45:10+02:00</updated>
+        <id>https://www.golem.de/news/sichere-mobile-kommunikation-samsung-und-bsi-intensivieren-zusammenarbeit-2206-166028.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Ein von Samsung entwickeltes Java Card Applet soll mit dem Secure Element der Galaxy-Handys die bisherige MicroSD-basierte Technologie ersetzen. (&lt;a href=&quot;https://www.golem.de/specials/bsi/&quot;&gt;BSI&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/samsung/&quot;&gt;Samsung&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166028&amp;amp;page=1&amp;amp;ts=1654868702&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Verbatim Keypad Secure: Der unsichere Sicherheits-USB-Stick</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/verbatim-keypad-secure-der-unsichere-sicherheits-usb-stick-2206-166027.html"/>
+        <published>2022-06-10T15:30:09+02:00</published>
+        <updated>2022-06-10T15:30:09+02:00</updated>
+        <id>https://www.golem.de/news/verbatim-keypad-secure-der-unsichere-sicherheits-usb-stick-2206-166027.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mit eigener Tastatur und AES-Verschlüsselung soll Verbatims Keypad Secure die Daten schützen. Forscher konnten dennoch leicht an diese gelangen. (&lt;a href=&quot;https://www.golem.de/specials/sicherheitsluecke/&quot;&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/verschluesselung/&quot;&gt;Verschlüsselung&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166027&amp;amp;page=1&amp;amp;ts=1654867802&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Bundesverfassungsgericht: Beschwerde von Kaspersky nicht angenommen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/bundesverfassungsgericht-beschwerde-von-kaspersky-nicht-angenommen-2206-166013.html"/>
+        <published>2022-06-10T11:59:05+02:00</published>
+        <updated>2022-06-10T11:59:05+02:00</updated>
+        <id>https://www.golem.de/news/bundesverfassungsgericht-beschwerde-von-kaspersky-nicht-angenommen-2206-166013.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Das BSI darf weiterhin vor der Sicherheitssoftware von Kaspersky warnen. Eine Beschwerde vor dem Verfassungsgericht ist gescheitert. (&lt;a href=&quot;https://www.golem.de/specials/bsi/&quot;&gt;BSI&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/virenscanner/&quot;&gt;Virenscanner&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166013&amp;amp;page=1&amp;amp;ts=1654855142&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">IT-Sicherheit: Forscher entwickeln Alarmanlage gegen Hardware-Angriffe</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/it-sicherheit-forscher-entwickeln-alarmanlage-gegen-hardware-angriffe-2206-165991.html"/>
+        <published>2022-06-09T16:30:03+02:00</published>
+        <updated>2022-06-09T16:30:03+02:00</updated>
+        <id>https://www.golem.de/news/it-sicherheit-forscher-entwickeln-alarmanlage-gegen-hardware-angriffe-2206-165991.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mit Funkwellen berechnen Forscher den Fingerabdruck eines PCs. Damit sollen sich kleinste Veränderungen erkennen lassen. (&lt;a href=&quot;https://www.golem.de/specials/security/&quot;&gt;Security&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/pc-hardware/&quot;&gt;PC-Hardware&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165991&amp;amp;page=1&amp;amp;ts=1654785002&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Chrome, Ransomware: Google testet Speichersicherheit für C++</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/chrome-ransomware-google-testet-speichersicherheit-fuer-c-2206-165911.html"/>
+        <published>2022-06-07T17:00:04+02:00</published>
+        <updated>2022-06-07T17:00:04+02:00</updated>
+        <id>https://www.golem.de/news/chrome-ransomware-google-testet-speichersicherheit-fuer-c-2206-165911.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html"> Was am 07. Juni 2022 neben den großen Meldungen sonst noch passiert ist, in aller Kürze. (&lt;a href=&quot;https://www.golem.de/specials/kurznews/&quot;&gt;Kurznews&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/google/&quot;&gt;Google&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165911&amp;amp;page=1&amp;amp;ts=1654614003&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Überwachung: EU-Kommissarin verteidigt Chatkontrolle</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ueberwachung-eu-kommissarin-verteidigt-chatkontrolle-2206-165914.html"/>
+        <published>2022-06-07T15:42:06+02:00</published>
+        <updated>2022-06-07T15:42:06+02:00</updated>
+        <id>https://www.golem.de/news/ueberwachung-eu-kommissarin-verteidigt-chatkontrolle-2206-165914.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die zuständige EU-Kommissarin Johansson reagiert gelassen auf Kritik aus der Ampelkoalition an der Chatkontrolle. (&lt;a href=&quot;https://www.golem.de/specials/chatkontrolle/&quot;&gt;Chatkontrolle&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/instantmessenger/&quot;&gt;Instant Messenger&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165914&amp;amp;page=1&amp;amp;ts=1654609322&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Ransomware: Palermos Behörden sind offline</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ransomware-palermos-behoerden-sind-offline-2206-165912.html"/>
+        <published>2022-06-07T14:19:03+02:00</published>
+        <updated>2022-06-07T14:19:03+02:00</updated>
+        <id>https://www.golem.de/news/ransomware-palermos-behoerden-sind-offline-2206-165912.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Von der Einsatzzentrale der Polizei bis zu Tickets für Museen: In Palermo funktioniert nach einem Cyberangriff fast nichts mehr. (&lt;a href=&quot;https://www.golem.de/specials/ransomware/&quot;&gt;Ransomware&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/virus/&quot;&gt;Virus&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165912&amp;amp;page=1&amp;amp;ts=1654604341&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Hack: Doch Daten bei Sixt erbeutet</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/hack-doch-daten-bei-sixt-erbeutet-2206-165896.html"/>
+        <published>2022-06-07T10:00:10+02:00</published>
+        <updated>2022-06-07T10:00:10+02:00</updated>
+        <id>https://www.golem.de/news/hack-doch-daten-bei-sixt-erbeutet-2206-165896.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Bei einem Cyberangriff auf die Autovermietung Sixt haben die Angreifer auch Kundendaten erbeutet. Ursprünglich war das Unternehmen nicht davon ausgegangen. (&lt;a href=&quot;https://www.golem.de/specials/autovermietung/&quot;&gt;Autovermietung&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/virus/&quot;&gt;Virus&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165896&amp;amp;page=1&amp;amp;ts=1654588804&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Anom: Anklage nach Fake-Messenger-Nutzung des FBI</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/anom-anklage-nach-fake-messenger-nutzung-des-fbi-2206-165852.html"/>
+        <published>2022-06-03T11:50:04+02:00</published>
+        <updated>2022-06-03T11:50:04+02:00</updated>
+        <id>https://www.golem.de/news/anom-anklage-nach-fake-messenger-nutzung-des-fbi-2206-165852.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Zwei hiesige Drogenhändler-Banden haben über einen FBI-Messenger kommuniziert und professionelle Verstecke verwendet. Nun stehen sie vor Gericht. (&lt;a href=&quot;https://www.golem.de/specials/polizei/&quot;&gt;Polizei&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/smartphone/&quot;&gt;Smartphone&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165852&amp;amp;page=1&amp;amp;ts=1654249802&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Conti: Ransomware-Gruppe arbeitet an Exploit für Intel ME</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/conti-ransomware-gruppe-arbeitet-an-exploit-fuer-intel-me-2206-165848.html"/>
+        <published>2022-06-03T10:35:10+02:00</published>
+        <updated>2022-06-03T10:35:10+02:00</updated>
+        <id>https://www.golem.de/news/conti-ransomware-gruppe-arbeitet-an-exploit-fuer-intel-me-2206-165848.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mit der Ausnutzung von Sicherheitslücken in Intels Firmware lassen sich Angriffe sehr lang verstecken und Gegenmaßnahmen sabotieren. (&lt;a href=&quot;https://www.golem.de/specials/ransomware/&quot;&gt;Ransomware&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/server/&quot;&gt;Server&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165848&amp;amp;page=1&amp;amp;ts=1654245302&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Zero Day: Atlassian rät, Confluence-Server abzuschalten</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/zero-day-atlassian-raet-confluence-server-abzuschalten-2206-165847.html"/>
+        <published>2022-06-03T10:20:09+02:00</published>
+        <updated>2022-06-03T10:20:09+02:00</updated>
+        <id>https://www.golem.de/news/zero-day-atlassian-raet-confluence-server-abzuschalten-2206-165847.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Eine ungepatchte Sicherheitslücke in Confluence ermöglicht es Angreifern, Code auf dem Server auszuführen. Sie wird bereits aktiv ausgenutzt. (&lt;a href=&quot;https://www.golem.de/specials/atlassian/&quot;&gt;Atlassian&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/server/&quot;&gt;Server&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165847&amp;amp;page=1&amp;amp;ts=1654244402&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Microsoft: Zero Day soll schon seit sieben Wochen ausgenutzt werden</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/microsoft-zero-day-soll-schon-seit-sieben-wochen-ausgenutzt-werden-2206-165833.html"/>
+        <published>2022-06-02T16:31:05+02:00</published>
+        <updated>2022-06-02T16:31:05+02:00</updated>
+        <id>https://www.golem.de/news/microsoft-zero-day-soll-schon-seit-sieben-wochen-ausgenutzt-werden-2206-165833.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die ungepatchte Sicherheitslücke Follina ist Microsoft schon seit sieben Wochen bekannt - und soll bereits genauso lange aktiv ausgenutzt werden. (&lt;a href=&quot;https://www.golem.de/specials/microsoft/&quot;&gt;Microsoft&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/officesuite/&quot;&gt;Office-Suite&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165833&amp;amp;page=1&amp;amp;ts=1654180262&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Trojaner: Europol übernimmt Infrastruktur von Android-Spyware</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/trojaner-europol-uebernimmt-infrastruktur-von-android-spyware-2206-165821.html"/>
+        <published>2022-06-02T12:49:03+02:00</published>
+        <updated>2022-06-02T12:49:03+02:00</updated>
+        <id>https://www.golem.de/news/trojaner-europol-uebernimmt-infrastruktur-von-android-spyware-2206-165821.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Immer wieder wurde vor der Schadsoftware Flubot gewarnt - nun hat die Polizei die Infrastruktur übernommen. (&lt;a href=&quot;https://www.golem.de/specials/malware/&quot;&gt;Malware&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/virus/&quot;&gt;Virus&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165821&amp;amp;page=1&amp;amp;ts=1654166942&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">IT-Security: Mehrheit der CIOs ist um die Softwaresicherheit besorgt</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/it-security-mehrheit-der-cios-ist-um-die-softwaresicherheit-besorgt-2206-165688.html"/>
+        <published>2022-06-01T17:15:10+02:00</published>
+        <updated>2022-06-01T17:15:10+02:00</updated>
+        <id>https://www.golem.de/news/it-security-mehrheit-der-cios-ist-um-die-softwaresicherheit-besorgt-2206-165688.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Eine Umfrage unter 1.000 CIOs aus Deutschland und anderen Ländern zeigt, wo sie Risiken für Supply-Chain-Angriffe sehen. (&lt;a href=&quot;https://www.golem.de/specials/security/&quot;&gt;Security&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/hacker/&quot;&gt;Hacker&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165688&amp;amp;page=1&amp;amp;ts=1654096502&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Kindesmissbrauch: Faeser lehnt allgemeine Vorratsdatenspeicherung ab</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/kindesmissbrauch-innenministerin-faeser-lehnt-vorratsdatenspeicherung-ab-2206-165783.html"/>
+        <published>2022-06-01T10:29:06+02:00</published>
+        <updated>2022-06-01T10:29:06+02:00</updated>
+        <id>https://www.golem.de/news/kindesmissbrauch-innenministerin-faeser-lehnt-vorratsdatenspeicherung-ab-2206-165783.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Politiker und Ermittler fordern die Einführung der Vorratsdatenspeicherung. Innenministerin Faeser will jedoch nur bestimmte IP-Adressen speichern. (&lt;a href=&quot;https://www.golem.de/specials/vorratsdatenspeicherung/&quot;&gt;Vorratsdatenspeicherung&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165783&amp;amp;page=1&amp;amp;ts=1654072143&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">GSM-Codes: Whatsapp-Konten per Anruf übernehmen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/gsm-codes-whatsapp-konten-per-anruf-uebernehmen-2205-165768.html"/>
+        <published>2022-05-31T16:18:10+02:00</published>
+        <updated>2022-05-31T16:18:10+02:00</updated>
+        <id>https://www.golem.de/news/gsm-codes-whatsapp-konten-per-anruf-uebernehmen-2205-165768.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mit einer neuen Masche können Betrüger Whatsapp-Konten übernehmen. Nutzer sollen zum Anrufen dubioser Telefonnummern verleitet werden. (&lt;a href=&quot;https://www.golem.de/specials/whatsapp/&quot;&gt;Whatsapp&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/smartphone/&quot;&gt;Smartphone&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165768&amp;amp;page=1&amp;amp;ts=1654006682&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Meeting Owl Pro: Konferenzeule hat viele Sicherheitslücken</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/meeting-owl-pro-konferenzeule-hat-viele-sicherheitsluecken-2205-165766.html"/>
+        <published>2022-05-31T16:00:11+02:00</published>
+        <updated>2022-05-31T16:00:11+02:00</updated>
+        <id>https://www.golem.de/news/meeting-owl-pro-konferenzeule-hat-viele-sicherheitsluecken-2205-165766.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Das Konferenzsystem Meeting Owl Pro sieht putzig aus, hat aber viele Sicherheitslücken, die auch nach vier Monaten nicht geschlossen wurden. (&lt;a href=&quot;https://www.golem.de/specials/videotelefonie/&quot;&gt;Videotelefonie&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/server/&quot;&gt;Server&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165766&amp;amp;page=1&amp;amp;ts=1654005605&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Microsoft: Zero Day in Office ermöglicht Remote Code Execution</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/microsoft-zero-day-in-office-ermoeglicht-remote-code-execution-2205-165754.html"/>
+        <published>2022-05-31T11:02:06+02:00</published>
+        <updated>2022-05-31T11:02:06+02:00</updated>
+        <id>https://www.golem.de/news/microsoft-zero-day-in-office-ermoeglicht-remote-code-execution-2205-165754.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mit dem Mauszeiger über eine Office-Datei zu fahren reicht, um sich mit der Follina genannten Sicherheitslücke zu infizieren. Einen Patch gibt es nicht. (&lt;a href=&quot;https://www.golem.de/specials/microsoft/&quot;&gt;Microsoft&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/officesuite/&quot;&gt;Office-Suite&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165754&amp;amp;page=1&amp;amp;ts=1653987722&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Innenministerin: Faeser will Investitionen in IT-Sicherheit deutlich erhöhen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/innenministerin-faeser-will-investitionen-in-it-sicherheit-deutlich-erhoehen-2205-165744.html"/>
+        <published>2022-05-30T18:00:07+02:00</published>
+        <updated>2022-05-30T18:00:07+02:00</updated>
+        <id>https://www.golem.de/news/innenministerin-faeser-will-investitionen-in-it-sicherheit-deutlich-erhoehen-2205-165744.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Auf das Sondervermögen für die Bundeswehr müssten Investitionen in die Cybersicherheit folgen, so Faeser. Der Bund solle mehr Kompetenzen erhalten. (&lt;a href=&quot;https://www.golem.de/specials/nancy-faeser/&quot;&gt;Nancy Faeser&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165744&amp;amp;page=1&amp;amp;ts=1653926403&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Ransomware: Black Basta soll hinter dem Angriff auf Sixt stecken</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ransomware-black-basta-soll-hinter-dem-angriff-auf-sixt-stecken-2205-165733.html"/>
+        <published>2022-05-30T14:00:05+02:00</published>
+        <updated>2022-05-30T14:00:05+02:00</updated>
+        <id>https://www.golem.de/news/ransomware-black-basta-soll-hinter-dem-angriff-auf-sixt-stecken-2205-165733.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Eine neue Ransomwaregruppe soll hinter Angriffen auf Sixt und Fendt stecken. Polizei und Sicherheitsexperten halten sie für einen Nachfolger von Conti. (&lt;a href=&quot;https://www.golem.de/specials/ransomware/&quot;&gt;Ransomware&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/virus/&quot;&gt;Virus&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165733&amp;amp;page=1&amp;amp;ts=1653912002&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+</feed>

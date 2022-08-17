@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="transform-to-html5.xsl" type="text/xsl"?>
+<!-- generator="FeedCreator 1.6" -->
+<feed xmlns="http://www.w3.org/2005/Atom"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xml:lang="de">
+    <title type="html">Golem.de - Internet</title>
+    <subtitle type="html">IT-News fuer Profis</subtitle>
+    <link rel="self" type="application/atom+xml" href="http://rss.golem.de/rss.php?tp=inet&amp;feed=ATOM1.0"/>
+    <link rel="alternate" type="text/html" href="http://www.golem.de/"/>
+    <id>http://www.golem.de/</id>
+    <logo>http://www.golem.de/staticrl/images/golem-rss.png</logo>
+    <icon>http://www.golem.de/favicon.ico</icon>
+    <updated>2016-06-14T12:46:02+02:00</updated>
+    <generator>FeedCreator 1.6</generator>
+    <entry>
+        <title type="html">Mecklenburg-Vorpommern: Bundesland braucht Reserven für Internetausbau</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/mecklenburg-vorpommern-bundesland-braucht-reserven-fuer-internetausbau-1606-121493-rss.html"/>
+        <published>2016-06-14T12:37:03+02:00</published>
+        <updated>2016-06-14T12:37:03+02:00</updated>
+        <id>http://www.golem.de/news/mecklenburg-vorpommern-bundesland-braucht-reserven-fuer-internetausbau-1606-121493-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Um den Eigenanteil für den Breitband-Ausbau auf dem Lande zu finanzieren, braucht Mecklenburg-Vorpommern seine Reserven. Ziel ist, mindestens 50 MBit/s an jeder Hauswand bis Ende 2018 zu bekommen. (&lt;a href=&quot;http://www.golem.de/specials/breitband/&quot;&gt;Breitband&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121493&amp;amp;page=1&amp;amp;ts=1465900620&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Rust: Ist die neue Programmiersprache besser?</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/rust-ist-die-neue-programmiersprache-besser-1606-121227-rss.html"/>
+        <published>2016-06-14T12:02:07+02:00</published>
+        <updated>2016-06-14T12:02:07+02:00</updated>
+        <id>http://www.golem.de/news/rust-ist-die-neue-programmiersprache-besser-1606-121227-rss.html</id>
+        <author>
+            <name>Christoph Reiter</name>
+        </author>
+        <summary type="html">Rust soll C und C++ Konkurrenz machen. Wir haben uns angesehen, ob die neue Programmiersprache, mit der Mozillas neue Browser-Engine Servo geschrieben wird, wirklich das Potenzial dafür hat. (&lt;a href=&quot;http://www.golem.de/specials/programmiersprache/&quot;&gt;Programmiersprache&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/entwicklungsumgebung/&quot;&gt;Entwicklungsumgebung&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121227&amp;amp;page=1&amp;amp;ts=1465898520&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Breitbandmessung: Kaum Anschlüsse über 50 MBit/s in Deutschland</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/breitbandmessung-kaum-anschluesse-ueber-50-mbit-s-in-deutschland-1606-121476-rss.html"/>
+        <published>2016-06-13T17:44:06+02:00</published>
+        <updated>2016-06-13T17:44:06+02:00</updated>
+        <id>http://www.golem.de/news/breitbandmessung-kaum-anschluesse-ueber-50-mbit-s-in-deutschland-1606-121476-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Laut der Breitbandmessung der Bundesnetzagentur sieht es mit hohen Datenraten in Deutschland weiter schlecht aus. Mehr Nutzer sollten an der Umfrage teilnehmen, wünscht sich die Behörde. So werden Werbeversprechen mit der Wirklichkeit verglichen. (&lt;a href=&quot;http://www.golem.de/specials/bundesnetzagentur/&quot;&gt;Bundesnetzagentur&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/handy/&quot;&gt;Handy&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121476&amp;amp;page=1&amp;amp;ts=1465832640&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">IT-Probleme in Berlin: Stell dir vor es ist Wahl - und es gibt keine Wahllisten</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/it-probleme-in-berlin-stell-dir-vor-es-ist-wahl-und-es-gibt-keine-wahllisten-1606-121474-rss.html"/>
+        <published>2016-06-13T17:22:04+02:00</published>
+        <updated>2016-06-13T17:22:04+02:00</updated>
+        <id>http://www.golem.de/news/it-probleme-in-berlin-stell-dir-vor-es-ist-wahl-und-es-gibt-keine-wahllisten-1606-121474-rss.html</id>
+        <author>
+            <name>Hauke Gierow</name>
+        </author>
+        <summary type="html">Softwareprobleme gefährdeten die Durchführung der Abgeordnetenhauswahl in der deutschen Hauptstadt akut - sagt die Landeswahlleiterin. Der Hersteller der Software widerspricht, schuld seien die 74 verschiedenen IT-Dienststellen Berlins. (&lt;a href=&quot;http://www.golem.de/specials/berlin/&quot;&gt;Berlin&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121474&amp;amp;page=1&amp;amp;ts=1465831320&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Facebook-Verfahren: US-Regierung will &quot;Missverständnisse&quot; beseitigen</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/facebook-verfahren-us-regierung-will-missverstaendnisse-beseitigen-1606-121472-rss.html"/>
+        <published>2016-06-13T16:09:02+02:00</published>
+        <updated>2016-06-13T16:09:02+02:00</updated>
+        <id>http://www.golem.de/news/facebook-verfahren-us-regierung-will-missverstaendnisse-beseitigen-1606-121472-rss.html</id>
+        <author>
+            <name>Hauke Gierow</name>
+        </author>
+        <summary type="html">Der Streit zwischen Max Schrems und Facebook hat schon zur Abschaffung des Safe-Harbor-Abkommens geführt, jetzt wird die US-Regierung offenbar nervös. Sie möchte nun in dem Verfahren mitreden - und Missverständnisse aufklären. (&lt;a href=&quot;http://www.golem.de/specials/maximilian-schrems/&quot;&gt;Max Schrems&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/socialnetwork/&quot;&gt;Soziales Netz&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121472&amp;amp;page=1&amp;amp;ts=1465826940&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Übernahme: Symantec kauft Sicherheitsfirma Bluecoat</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/uebernahme-symantec-kauft-sicherheitsfirma-bluecoat-1606-121468-rss.html"/>
+        <published>2016-06-13T13:36:08+02:00</published>
+        <updated>2016-06-13T13:36:08+02:00</updated>
+        <id>http://www.golem.de/news/uebernahme-symantec-kauft-sicherheitsfirma-bluecoat-1606-121468-rss.html</id>
+        <author>
+            <name>Hauke Gierow</name>
+        </author>
+        <summary type="html">Zwei umstrittene Unternehmen tun sich zusammen: Der Sicherheitsanbieter Symantec kauft Bluecoat. Zusammen will man Sicherheitslösungen für mobile Geräte und die Cloud entwickeln. (&lt;a href=&quot;http://www.golem.de/specials/symantec/&quot;&gt;Symantec&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/google/&quot;&gt;Google&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121468&amp;amp;page=1&amp;amp;ts=1465817760&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Funknetz: Telekom bietet Wi-Fi-Paket für Städte</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/funknetz-telekom-bietet-wi-fi-paket-fuer-staedte-1606-121469-rss.html"/>
+        <published>2016-06-13T12:48:09+02:00</published>
+        <updated>2016-06-13T12:48:09+02:00</updated>
+        <id>http://www.golem.de/news/funknetz-telekom-bietet-wi-fi-paket-fuer-staedte-1606-121469-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Für offene Hotspots bietet die Telekom eine Wi-Fi-Plattform, die zusammen mit Lancom entwickelt wurde. Sie soll Städten und Kommunen angeboten werden und auf Rathäusern oder in Flüchtlingsunterkünften stehen. (&lt;a href=&quot;http://www.golem.de/specials/wlan/&quot;&gt;WLAN&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/telekom/&quot;&gt;Telekom&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121469&amp;amp;page=1&amp;amp;ts=1465814880&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Ethik: Roboter verletzt Menschen absichtlich</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/ethik-roboter-verletzt-menschen-absichtlich-1606-121464-rss.html"/>
+        <published>2016-06-13T11:23:04+02:00</published>
+        <updated>2016-06-13T11:23:04+02:00</updated>
+        <id>http://www.golem.de/news/ethik-roboter-verletzt-menschen-absichtlich-1606-121464-rss.html</id>
+        <author>
+            <name>Werner Pluta</name>
+        </author>
+        <summary type="html">Darf ein Roboter einen Menschen nach eigenem Gutdünken verletzen? Ein US-Robotiker hat einen Roboter gebaut, der selbst entscheidet, ob er einem Menschen in den Finger sticht. Die Aktion soll eine Diskussion über Roboter anregen. (&lt;a href=&quot;http://www.golem.de/specials/robots/&quot;&gt;Roboter&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/technologie/&quot;&gt;Technologie&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121464&amp;amp;page=1&amp;amp;ts=1465809780&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Verschlüsselung: Let's Encrypt verrät 7.618 E-Mail-Adressen</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/verschuesselung-let-s-encrypt-verraet-7-618-e-mail-adressen-1606-121462-rss.html"/>
+        <published>2016-06-13T10:31:02+02:00</published>
+        <updated>2016-06-13T10:31:02+02:00</updated>
+        <id>http://www.golem.de/news/verschuesselung-let-s-encrypt-verraet-7-618-e-mail-adressen-1606-121462-rss.html</id>
+        <author>
+            <name>Hauke Gierow</name>
+        </author>
+        <summary type="html">Let's Encrypt will Verbindungen im Internet besser absichern und so die privaten Daten der Nutzer besser schützen. Doch jetzt hat das Projekt durch eine Panne selbst zahlreiche Mailadressen preisgegeben. (&lt;a href=&quot;http://www.golem.de/specials/letsencrypt/&quot;&gt;Let&amp;#039;s Encrypt&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/firefox/&quot;&gt;Firefox&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121462&amp;amp;page=1&amp;amp;ts=1465806660&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Die Woche im Video: Spionage, Debatten und schwere Beschuldigungen</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/die-woche-im-video-spionage-debatten-und-schwere-beschuldigungen-1606-121433-rss.html"/>
+        <published>2016-06-11T09:03:03+02:00</published>
+        <updated>2016-06-11T09:03:03+02:00</updated>
+        <id>http://www.golem.de/news/die-woche-im-video-spionage-debatten-und-schwere-beschuldigungen-1606-121433-rss.html</id>
+        <author>
+            <name> Golem.de</name>
+        </author>
+        <summary type="html"> Kabelnetzbetreiber debattierten über Glasfaser und Kupfer, Lenovo zerstückelte ein Smartphone, der Verfassungsschutz-Chef beschuldigte Edward Snowden - und die Vorwürfe gegen Jacob Appelbaum wurden lauter. Sieben Tage und viele Meldungen im Überblick. (&lt;a href=&quot;http://www.golem.de/specials/golemwochenrueckblick/&quot;&gt;Golem-Wochenrückblick&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/business-notebooks/&quot;&gt;Business-Notebooks&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121433&amp;amp;page=1&amp;amp;ts=1465628580&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Hochwasser: Ganze Straßenzüge mit Kabelverzweigern weggespült</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/simbach-am-inn-ganze-strassenzuege-mit-kabelverzweiger-wurden-weggespuelt-1606-121441-rss.html"/>
+        <published>2016-06-10T16:57:01+02:00</published>
+        <updated>2016-06-10T16:57:01+02:00</updated>
+        <id>http://www.golem.de/news/simbach-am-inn-ganze-strassenzuege-mit-kabelverzweiger-wurden-weggespuelt-1606-121441-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Eine Hochwasserkatastrophe wie in Simbach am Inn lässt auch das Telekom-Festnetz nicht stehen. Es wurde regelrecht weggespült, Kabelverzweiger waren unter Wasser, nicht zugänglich oder gänzlich verschwunden. Die Telekom beschreibt die Folgen des Unglücks. (&lt;a href=&quot;http://www.golem.de/specials/telekom/&quot;&gt;Telekom&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/mobilfunk/&quot;&gt;Mobilfunk&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121441&amp;amp;page=1&amp;amp;ts=1465570620&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Gainspeed: Nokia kauft Startup für Technik im TV-Kabelnetzwerk</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/gainspeed-nokia-kauft-startup-fuer-technik-im-tv-kabelnetzwerk-1606-121439-rss.html"/>
+        <published>2016-06-10T14:08:09+02:00</published>
+        <updated>2016-06-10T14:08:09+02:00</updated>
+        <id>http://www.golem.de/news/gainspeed-nokia-kauft-startup-fuer-technik-im-tv-kabelnetzwerk-1606-121439-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Nokia will sich stärker als Ausrüster von TV-Kabelnetzwerken engagieren. Die Finnen haben das Startup Gainspeed gekauft, das Virtual CCAP anbietet. (&lt;a href=&quot;http://www.golem.de/specials/nokia/&quot;&gt;Nokia&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/wirtschaft/&quot;&gt;Wirtschaft&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121439&amp;amp;page=1&amp;amp;ts=1465560480&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">360-Grad-Fotos: Facebook bringt Rundumpanoramen in den Newsfeed</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/360-grad-fotos-facebook-bringt-rundumpanoramen-in-den-newsfeed-1606-121438-rss.html"/>
+        <published>2016-06-10T13:10:08+02:00</published>
+        <updated>2016-06-10T13:10:08+02:00</updated>
+        <id>http://www.golem.de/news/360-grad-fotos-facebook-bringt-rundumpanoramen-in-den-newsfeed-1606-121438-rss.html</id>
+        <author>
+            <name>Tobias Költzsch</name>
+        </author>
+        <summary type="html">Auf Facebook können Nutzer jetzt auch 360-Grad-Fotos hochladen und anschauen. Nach dem Upload soll das Rundumpanorama automatisch erkannt und in einem entsprechenden Betrachtungsmodus angezeigt werden - noch klappt das aber nicht bei jedem Bild. (&lt;a href=&quot;http://www.golem.de/specials/facebook/&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/socialnetwork/&quot;&gt;Soziales Netz&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121438&amp;amp;page=1&amp;amp;ts=1465557000&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Glasfaser/Koaxial: Primacom setzt in einer Kreisstadt weitgehend auf Glasfaser</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/glasfaser-koaxial-primacom-setzt-in-einer-kreisstadt-weitgehend-auf-glasfaser-1606-121435-rss.html"/>
+        <published>2016-06-10T12:00:05+02:00</published>
+        <updated>2016-06-10T12:00:05+02:00</updated>
+        <id>http://www.golem.de/news/glasfaser-koaxial-primacom-setzt-in-einer-kreisstadt-weitgehend-auf-glasfaser-1606-121435-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Primacom setzt bei der Versorgung von 2.500 Haushalten mit IT-Kabelnetz in einer Kreisstadt auf bestehende Glasfaser. Auf den letzten Metern wird Koaxialkabel genutzt. Doch die Kunden kriegen nur 200 MBit/s. (&lt;a href=&quot;http://www.golem.de/specials/kabelnetz/&quot;&gt;Kabelnetz&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/glasfaser/&quot;&gt;Glasfaser&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121435&amp;amp;page=1&amp;amp;ts=1465552800&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Streit im Bundestag: Verfassungsschutz stellt Snowden als russischen Agenten dar</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/streit-im-bundestag-verfassungsschutz-stellt-snowden-als-russischen-agenten-dar-1606-121422-rss.html"/>
+        <published>2016-06-09T20:53:02+02:00</published>
+        <updated>2016-06-09T20:53:02+02:00</updated>
+        <id>http://www.golem.de/news/streit-im-bundestag-verfassungsschutz-stellt-snowden-als-russischen-agenten-dar-1606-121422-rss.html</id>
+        <author>
+            <name>Friedhelm Greis</name>
+        </author>
+        <summary type="html">Nach Ansicht von Verfassungsschutzpräsident Maaßen könnte Whistleblower Snowden ein Agent der russischen Geheimdienste sein. Nicht nur mit diesen Anschuldigungen macht er sich beim NSA-Ausschuss unbeliebt. Snowden selbst kontert mit einem ungewöhnlichen Tweet. (&lt;a href=&quot;http://www.golem.de/specials/nsa/&quot;&gt;NSA&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/wikileaks/&quot;&gt;Wikileaks&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121422&amp;amp;page=1&amp;amp;ts=1465498380&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Docsis 3.1: Auch Tele Columbus bekennt sich zu 10 GBit/s</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/docsis-3-1-auch-tele-columbus-bekennt-sich-zu-10-gbit-s-1606-121418-rss.html"/>
+        <published>2016-06-09T19:49:08+02:00</published>
+        <updated>2016-06-09T19:49:08+02:00</updated>
+        <id>http://www.golem.de/news/docsis-3-1-auch-tele-columbus-bekennt-sich-zu-10-gbit-s-1606-121418-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Der Technikchef von Tele Columbus hat sich zum vollen Ausbau des Koaxialkabels bekannt. Es würden 10 GBit/s im Upload und im Download angestrebt. (&lt;a href=&quot;http://www.golem.de/specials/tele-columbus/&quot;&gt;Tele Columbus&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121418&amp;amp;page=1&amp;amp;ts=1465494540&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">G.fast: Netcologne wird 1 GBit/s für 250.000 Haushalte anbieten</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/g-fast-netcologne-wird-1-gbit-s-fuer-250-000-haushalte-anbieten-1606-121416-rss.html"/>
+        <published>2016-06-09T17:37:06+02:00</published>
+        <updated>2016-06-09T17:37:06+02:00</updated>
+        <id>http://www.golem.de/news/g-fast-netcologne-wird-1-gbit-s-fuer-250-000-haushalte-anbieten-1606-121416-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Netcologne will G.fast einsetzen und damit vielen Endkunden 1 GBit/s bringen. Der Netzbetreiber legt sich damit mit der Deutschen Telekom an. (&lt;a href=&quot;http://www.golem.de/specials/angacom/&quot;&gt;Anga Com&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/dsl/&quot;&gt;DSL&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121416&amp;amp;page=1&amp;amp;ts=1465486620&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Ex-Verfassungsschutzpräsident: Veraltete Analysesoftware für 45 Millionen gekauft</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/ex-verfassungsschutzpraesident-veraltete-analysesoftware-fuer-45-millionen-gekauft-1606-121414-rss.html"/>
+        <published>2016-06-09T17:12:04+02:00</published>
+        <updated>2016-06-09T17:12:04+02:00</updated>
+        <id>http://www.golem.de/news/ex-verfassungsschutzpraesident-veraltete-analysesoftware-fuer-45-millionen-gekauft-1606-121414-rss.html</id>
+        <author>
+            <name>Friedhelm Greis</name>
+        </author>
+        <summary type="html">Der Verfassungsschutz hat für viel Geld eine Software zur Auswertung von Datenströmen gekauft. Da sie schon beim ersten Einsatz technisch überholt war, kam ein Angebot der NSA sehr gelegen. (&lt;a href=&quot;http://www.golem.de/specials/nsa/&quot;&gt;NSA&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121414&amp;amp;page=1&amp;amp;ts=1465485120&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Huawei: Super Vectoring mit 300 MBit/s ab 2017 verfügbar</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/huawei-super-vectoring-mit-300-mbit-s-ab-2017-verfuegbar-1606-121412-rss.html"/>
+        <published>2016-06-09T16:18:02+02:00</published>
+        <updated>2016-06-09T16:18:02+02:00</updated>
+        <id>http://www.golem.de/news/huawei-super-vectoring-mit-300-mbit-s-ab-2017-verfuegbar-1606-121412-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Super Vectoring ist ab nächstem Jahr auf dem Markt, wie Huawei auf der Anga Com erklärte. Die Telekom will die Technik einsetzen, mit der Datenraten von 300 MBit/s im Kupfernetz möglich werden. (&lt;a href=&quot;http://www.golem.de/specials/angacom/&quot;&gt;Anga Com&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/dsl/&quot;&gt;DSL&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121412&amp;amp;page=1&amp;amp;ts=1465481880&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Social Media: Ein Netzwerk wie ein Glücksspielautomat</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/social-media-ein-netzwerk-wie-ein-gluecksspielautomat-1606-121406-rss.html"/>
+        <published>2016-06-09T15:36:06+02:00</published>
+        <updated>2016-06-09T15:36:06+02:00</updated>
+        <id>http://www.golem.de/news/social-media-ein-netzwerk-wie-ein-gluecksspielautomat-1606-121406-rss.html</id>
+        <author>
+            <name>Hakan Tanriverdi</name>
+        </author>
+        <summary type="html">Design-Ethiker Tristan Harris ärgert sich darüber, wie unethisch Firmen aus dem Silicon Valley sich verhalten. Sie behandelten Nutzer, als ob diese an einem Glücksspielautomaten säßen. Anstatt deren Alltag zu verbessern, ginge es nur darum, Aufmerksamkeit zu maximieren. (&lt;a href=&quot;http://www.golem.de/specials/socialnetwork/&quot;&gt;Soziales Netz&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/microblogging/&quot;&gt;Microblogging&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121406&amp;amp;page=1&amp;amp;ts=1465479360&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">DNS:NET: FTTH-Ausbau mit 500 MBit/s beginnt in Sachsen-Anhalt</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/dnsnet-ftth-ausbau-mit-500-mbit-s-beginnt-in-sachsen-anhalt-1606-121409-rss.html"/>
+        <published>2016-06-09T14:43:09+02:00</published>
+        <updated>2016-06-09T14:43:09+02:00</updated>
+        <id>http://www.golem.de/news/dnsnet-ftth-ausbau-mit-500-mbit-s-beginnt-in-sachsen-anhalt-1606-121409-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">In der Altmark in Sachsen-Anhalt beginnt ein Projekt mit dem großflächigen Ausbau mit Fiber To The Home. Der Zweckverband Breitband Altmark ist kommunaler Netzeigentümer. (&lt;a href=&quot;http://www.golem.de/specials/glasfaser/&quot;&gt;Glasfaser&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121409&amp;amp;page=1&amp;amp;ts=1465476180&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">TV-Kabelnetz: Cisco sieht Docsis 3.1 nicht vor 2017 beim Kunden</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/tv-kabelnetz-cisco-sieht-docsis-3-1-nicht-vor-2017-beim-kunden-1606-121405-rss.html"/>
+        <published>2016-06-09T13:38:05+02:00</published>
+        <updated>2016-06-09T13:38:05+02:00</updated>
+        <id>http://www.golem.de/news/tv-kabelnetz-cisco-sieht-docsis-3-1-nicht-vor-2017-beim-kunden-1606-121405-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Bevor sich die Docsis-3.1-Ausrüstung verbreiten kann, muss sie zunächst preiseffizienter werden. Im Jahr 2016 gibt es erste Testläufe, Bereitstellungen von 10 GBit/s im TV-Kabelnetz folgen dann laut Cisco im Jahr 2017. Erst danach geht es richtig los. (&lt;a href=&quot;http://www.golem.de/specials/angacom/&quot;&gt;Anga Com&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/telekommunikation/&quot;&gt;Telekommunikation&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121405&amp;amp;page=1&amp;amp;ts=1465472280&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Sicherheit: Millionen Twitter-Passwörter sollen im Netz kursieren</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/sicherheit-millionen-twitter-passwoerter-sollen-im-netz-kursieren-1606-121403-rss.html"/>
+        <published>2016-06-09T12:57:03+02:00</published>
+        <updated>2016-06-09T12:57:03+02:00</updated>
+        <id>http://www.golem.de/news/sicherheit-millionen-twitter-passwoerter-sollen-im-netz-kursieren-1606-121403-rss.html</id>
+        <author>
+            <name>dpa</name>
+        </author>
+        <summary type="html">Im Internet kursieren derzeit Millionen von Nutzerdaten aus Jahre alten Angriffen auf Netzwerke wie Myspace, Tumblr und LinkedIn: Nun soll auch ein Datensatz mit fast 33 Millionen Einträgen von Twitter aufgetaucht sein. (&lt;a href=&quot;http://www.golem.de/specials/twitter/&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/microblogging/&quot;&gt;Microblogging&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121403&amp;amp;page=1&amp;amp;ts=1465469820&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Glasfaser/Koaxial: Telekom Zuhause Kabel hat 155.000 Kunden</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/glasfaser-koaxial-telekom-zuhause-kabel-hat-155-000-kunden-1606-121402-rss.html"/>
+        <published>2016-06-09T12:00:02+02:00</published>
+        <updated>2016-06-09T12:00:02+02:00</updated>
+        <id>http://www.golem.de/news/glasfaser-koaxial-telekom-zuhause-kabel-hat-155-000-kunden-1606-121402-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Die Deutsche Telekom wächst als TV-Kabelnetzbetreiber. Hier werden 200 MBit/s und künftig 800 MBit/s angeboten. Inhouse wird auf Koaxialkabel gesetzt. (&lt;a href=&quot;http://www.golem.de/specials/telekom/&quot;&gt;Telekom&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/glasfaser/&quot;&gt;Glasfaser&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121402&amp;amp;page=1&amp;amp;ts=1465466400&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Prepaid-Karten: Anonymität wird zum Fall für den Menschenrechtsgerichtshof</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/prepaid-karten-anonymitaet-wird-zum-fall-fuer-den-menschengerichtshof-1606-121398-rss.html"/>
+        <published>2016-06-09T10:29:08+02:00</published>
+        <updated>2016-06-09T10:29:08+02:00</updated>
+        <id>http://www.golem.de/news/prepaid-karten-anonymitaet-wird-zum-fall-fuer-den-menschengerichtshof-1606-121398-rss.html</id>
+        <author>
+            <name>Patrick Beuth</name>
+        </author>
+        <summary type="html">Die Bundesregierung will Käufer von Prepaid-Karten schärfer kontrollieren lassen. Dabei verstößt vielleicht schon das bisherige Gesetz gegen die Menschenrechtskonvention. (&lt;a href=&quot;http://www.golem.de/specials/anonymitaet/&quot;&gt;Anonymität&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121398&amp;amp;page=1&amp;amp;ts=1465460940&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Huawei: M-Net will Upload mit G.fast stark erhöhen</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/huawei-m-net-will-upload-mit-g-fast-stark-erhoehen-1606-121389-rss.html"/>
+        <published>2016-06-08T17:35:09+02:00</published>
+        <updated>2016-06-08T17:35:09+02:00</updated>
+        <id>http://www.golem.de/news/huawei-m-net-will-upload-mit-g-fast-stark-erhoehen-1606-121389-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">M-Net steckt viel Geld in den Ausbau mit G.fast. &quot;Wir werden aber auch die Upload-Geschwindigkeit signifikant erhöhen&quot;, sagte der Firmenchef. Ausrüster ist Huawei. (&lt;a href=&quot;http://www.golem.de/specials/angacom/&quot;&gt;Anga Com&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/dsl/&quot;&gt;DSL&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121389&amp;amp;page=1&amp;amp;ts=1465400100&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">TV-Kabelnetz: XG-Cable für symmetrische 10 GBit/s braucht noch Jahre</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/tv-kabelnetz-xg-cable-fuer-symmetrische-10-gbit-s-braucht-noch-jahre-1606-121384-rss.html"/>
+        <published>2016-06-08T15:59:04+02:00</published>
+        <updated>2016-06-08T15:59:04+02:00</updated>
+        <id>http://www.golem.de/news/tv-kabelnetz-xg-cable-fuer-symmetrische-10-gbit-s-braucht-noch-jahre-1606-121384-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">XG-Cable aus den berühmten Bell Labs von Nokia soll das TV-Kabelnetz gleichwertig mit dem Glasfasernetz machen und dabei erheblich billiger sein als Docsis 3.1. Doch XG-Cable ist Proof-of-Concept-Technologie, also noch vor dem Stadium eines Prototyps. (&lt;a href=&quot;http://www.golem.de/specials/angacom/&quot;&gt;Anga Com&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/nokia/&quot;&gt;Nokia&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121384&amp;amp;page=1&amp;amp;ts=1465394340&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Missbrauchsvorwürfe: Appelbaum wurde bereits 2015 von Tor suspendiert</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/missbrauchsvorwuerfe-appelbaum-wurde-bereits-2015-von-tor-suspendiert-1606-121375-rss.html"/>
+        <published>2016-06-08T14:46:05+02:00</published>
+        <updated>2016-06-08T14:46:05+02:00</updated>
+        <id>http://www.golem.de/news/missbrauchsvorwuerfe-appelbaum-wurde-bereits-2015-von-tor-suspendiert-1606-121375-rss.html</id>
+        <author>
+            <name>Hauke Gierow</name>
+        </author>
+        <summary type="html">Der Hacker Jacob Appelbaum wurde nach Informationen von Golem.de bereits im vergangenen Jahr für zehn Tage vom Dienst freigestellt - weil er wegen sexuellen Übergriffs beschuldigt wurde. Mittlerweile gibt es neue Vorwürfe, die nicht mehr anonym vorgetragen werden. (&lt;a href=&quot;http://www.golem.de/specials/tor-netzwerk/&quot;&gt;TOR-Netzwerk&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/ccc/&quot;&gt;CCC&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121375&amp;amp;page=1&amp;amp;ts=1465389960&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">TV-Kabelnetz: Docsis 3.1 soll Schwäche beim Upstream überwinden</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/tv-kabelnetz-docsis-3-1-soll-schwaeche-beim-upstream-ueberwinden-1606-121382-rss.html"/>
+        <published>2016-06-08T14:42:02+02:00</published>
+        <updated>2016-06-08T14:42:02+02:00</updated>
+        <id>http://www.golem.de/news/tv-kabelnetz-docsis-3-1-soll-schwaeche-beim-upstream-ueberwinden-1606-121382-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Der neue Kabelnetzstandard soll die Schwäche im Upstream ausgleichen. Auch wenn Engpässe durch viele Haushalte im Shared Medium entstehen, soll Docsis 3.1 helfen. (&lt;a href=&quot;http://www.golem.de/specials/angacom/&quot;&gt;Anga Com&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/huawei/&quot;&gt;Huawei&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121382&amp;amp;page=1&amp;amp;ts=1465389720&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Kabelmodem: Unitymedia erwartet kaum Nutzung der Routerfreiheit</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/kabelmodem-unitymedia-erwartet-kaum-nutzung-der-routerfreiheit-1606-121377-rss.html"/>
+        <published>2016-06-08T13:24:07+02:00</published>
+        <updated>2016-06-08T13:24:07+02:00</updated>
+        <id>http://www.golem.de/news/kabelmodem-unitymedia-erwartet-kaum-nutzung-der-routerfreiheit-1606-121377-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Nicht jede Kabelbox aus den Niederlanden oder aus den USA werde im Kabelnetz von Unitymedia funktionieren, kündigte der Kabelnetzbetreiber an. Andere Geräte könnten gestört werden. Wenn es zu Beeinträchtigungen komme, werde Unitymedia die Geräte nicht provisionieren. (&lt;a href=&quot;http://www.golem.de/specials/router/&quot;&gt;Router&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/dsl/&quot;&gt;DSL&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121377&amp;amp;page=1&amp;amp;ts=1465385040&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Automatische Aktivierung: Verbraucherschützer verklagen Unitymedia wegen Hotspots</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/automatische-aktivierung-verbraucherschuetzer-verklagen-unitymedia-wegen-hotspots-1606-121372-rss.html"/>
+        <published>2016-06-08T12:36:02+02:00</published>
+        <updated>2016-06-08T12:36:02+02:00</updated>
+        <id>http://www.golem.de/news/automatische-aktivierung-verbraucherschuetzer-verklagen-unitymedia-wegen-hotspots-1606-121372-rss.html</id>
+        <author>
+            <name>Friedhelm Greis</name>
+        </author>
+        <summary type="html">Welche Rechte hat ein Kabelnetzbetreiber auf den Mietroutern seiner Kunden? Im Streit über die automatische Aktivierung von WLAN-Hotspots von Unitymedia soll ein Gericht diese Grundsatzfrage klären. (&lt;a href=&quot;http://www.golem.de/specials/unitymedia/&quot;&gt;Unitymedia&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/wlan/&quot;&gt;WLAN&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121372&amp;amp;page=1&amp;amp;ts=1465382160&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Docsis 3.1: Unitymedia startet noch dieses Jahr Feldtests für 1 GBit/s</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/docsis-3-1-unitymedia-startet-noch-dieses-jahr-feldtests-fuer-1-gbit-s-1606-121364-rss.html"/>
+        <published>2016-06-08T12:00:04+02:00</published>
+        <updated>2016-06-08T12:00:04+02:00</updated>
+        <id>http://www.golem.de/news/docsis-3-1-unitymedia-startet-noch-dieses-jahr-feldtests-fuer-1-gbit-s-1606-121364-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Der neue Kabelnetzstandard Docsis 3.1. kommt bald im Netz von Unitymedia zum Einsatz - allerdings vorerst in einer Light-Version. Weil die Hardware schon weitgehend implementiert ist, ist der Start durch ein Softwareupdate möglich. (&lt;a href=&quot;http://www.golem.de/specials/unitymedia/&quot;&gt;Unitymedia&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/telekommunikation/&quot;&gt;Telekommunikation&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121364&amp;amp;page=1&amp;amp;ts=1465380000&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Messenger-Apps: Franz, das Kommunikationsgenie</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/messenger-apps-franz-das-kommunikationsgenie-1606-121351-rss.html"/>
+        <published>2016-06-08T09:14:01+02:00</published>
+        <updated>2016-06-08T09:14:01+02:00</updated>
+        <id>http://www.golem.de/news/messenger-apps-franz-das-kommunikationsgenie-1606-121351-rss.html</id>
+        <author>
+            <name>Sebastian Wochnik</name>
+        </author>
+        <summary type="html">Der österreichische Kaiser Franz Joseph I. kümmert sich jetzt in Form einer App um unsere Kommunikation. Sie vereint die wichtigsten Instant Messenger in einer Anwendung und will uns damit den Alltag erleichtern. Wir haben mit zwei Entwicklern über Franz und die Fragmentierung der Kommunikation gesprochen. (&lt;a href=&quot;http://www.golem.de/specials/instantmessenger/&quot;&gt;Instant Messenger&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/steam/&quot;&gt;Steam&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121351&amp;amp;page=1&amp;amp;ts=1465370040&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Mozilla: Firefox 47 verbessert HTML5-Video und Kryptofunktionen</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/mozilla-firefox-47-verbessert-html5-video-und-kryptofunktionen-1606-121362-rss.html"/>
+        <published>2016-06-07T17:32:02+02:00</published>
+        <updated>2016-06-07T17:32:02+02:00</updated>
+        <id>http://www.golem.de/news/mozilla-firefox-47-verbessert-html5-video-und-kryptofunktionen-1606-121362-rss.html</id>
+        <author>
+            <name>Sebastian Grüner</name>
+        </author>
+        <summary type="html">Die aktuelle Version des Firefox unterstützt Googles Widevine CDM für DRM-Inhalte und HTML5-Video für Youtube-Einbettungen. Entwickler können zudem die Leistung von Webseiten messen, und der Browser unterstützt Cipher-Suites mit Chacha20 und Poly1305. (&lt;a href=&quot;http://www.golem.de/specials/firefox/&quot;&gt;Firefox&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/browser/&quot;&gt;Browser&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121362&amp;amp;page=1&amp;amp;ts=1465313520&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">BND-Reform: Selbstherrliche Überwachung soll Gesetz werden</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/bnd-reform-selbstherrliche-ueberwachung-soll-gesetz-werden-1606-121357-rss.html"/>
+        <published>2016-06-07T16:49:07+02:00</published>
+        <updated>2016-06-07T16:49:07+02:00</updated>
+        <id>http://www.golem.de/news/bnd-reform-selbstherrliche-ueberwachung-soll-gesetz-werden-1606-121357-rss.html</id>
+        <author>
+            <name>Kai Biermann</name>
+        </author>
+        <summary type="html">Wir reformieren die Geheimdienste, versprach die Bundesregierung. Nun hat sie zwei Gesetzentwürfe vorgelegt - die einfach alles erlauben, was bislang für Ärger sorgte. (&lt;a href=&quot;http://www.golem.de/specials/netzpolitik/&quot;&gt;Netzpolitik&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/internet/&quot;&gt;Internet&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121357&amp;amp;page=1&amp;amp;ts=1465310940&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Docsis 3.1: Huawei zeigt 10-GBit-Plattform für FTTH und Kabelnetz</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/docsis-3-1-huawei-zeigt-10-gbit-plattform-fuer-ftth-und-kabelnetz-1606-121355-rss.html"/>
+        <published>2016-06-07T16:09:05+02:00</published>
+        <updated>2016-06-07T16:09:05+02:00</updated>
+        <id>http://www.golem.de/news/docsis-3-1-huawei-zeigt-10-gbit-plattform-fuer-ftth-und-kabelnetz-1606-121355-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Das TV-Kabelnetz wird bald fast so schnell sein wie das Glasfasernetz. Huawei stellte auf seinem Forum Docsis 3.1 eine fertige Docsis-3.1-Plattform vor. (&lt;a href=&quot;http://www.golem.de/specials/angacom/&quot;&gt;Anga Com&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/huawei/&quot;&gt;Huawei&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121355&amp;amp;page=1&amp;amp;ts=1465308540&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">WDR: Bedeutung der Mediatheken weit geringer als angenommen</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/wdr-bedeutung-der-mediatheken-weit-geringer-als-angenommen-1606-121352-rss.html"/>
+        <published>2016-06-07T14:02:02+02:00</published>
+        <updated>2016-06-07T14:02:02+02:00</updated>
+        <id>http://www.golem.de/news/wdr-bedeutung-der-mediatheken-weit-geringer-als-angenommen-1606-121352-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Der WDR-Intendant moderiert die eigenen Mediatheken ab. Deren Bedeutung sei nicht so groß, und nach 48 Stunden kippe die Nutzungskurve steil ab. (&lt;a href=&quot;http://www.golem.de/specials/angacom/&quot;&gt;Anga Com&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/telekom/&quot;&gt;Telekom&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121352&amp;amp;page=1&amp;amp;ts=1465300920&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Unitymedia: &quot;Jede angebotene Bandbreite wird auch genutzt&quot;</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/unitymedia-jede-angebotene-bandbreite-wird-auch-genutzt-1606-121350-rss.html"/>
+        <published>2016-06-07T13:23:00+02:00</published>
+        <updated>2016-06-07T13:23:00+02:00</updated>
+        <id>http://www.golem.de/news/unitymedia-jede-angebotene-bandbreite-wird-auch-genutzt-1606-121350-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Der Chef des TV-Kabelnetzbetreibers Unitymedia erklärt, wie mehr Bandbreite und Nutzerverhalten zusammenhängen. Die Haushalte nutzten höhere Datenraten, wenn sie angeboten würden. (&lt;a href=&quot;http://www.golem.de/specials/angacom/&quot;&gt;Anga Com&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/telekom/&quot;&gt;Telekom&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121350&amp;amp;page=1&amp;amp;ts=1465298580&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Safe Harbor: Punica, Unilever und Adobe müssen Bußgelder zahlen</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/safe-harbor-punica-unilever-und-adobe-muessen-bussgelder-zahlen-1606-121346-rss.html"/>
+        <published>2016-06-07T12:41:06+02:00</published>
+        <updated>2016-06-07T12:41:06+02:00</updated>
+        <id>http://www.golem.de/news/safe-harbor-punica-unilever-und-adobe-muessen-bussgelder-zahlen-1606-121346-rss.html</id>
+        <author>
+            <name>Hauke Gierow</name>
+        </author>
+        <summary type="html">Mehrere Unternehmen müssen Strafen zahlen, weil sie ihren Datentransfer in die USA noch über das Safe-Harbor-Abkommen abgewickelt haben. Noch sind die Strafen moderat - künftige Sünder könnten aber mit bis zu 300.000 Euro bestraft werden. (&lt;a href=&quot;http://www.golem.de/specials/safe-harbor/&quot;&gt;Safe Harbor&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/datenschutz/&quot;&gt;Datenschutz&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121346&amp;amp;page=1&amp;amp;ts=1465296060&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Anga Com: TV-Kabelnetze erreichen im nächsten Jahr 800 MBit/s</title>
+        <link rel="alternate" type="text/html" href="http://www.golem.de/news/anga-com-tv-kabelnetze-erreichen-im-naechsten-jahr-800-mbit-s-1606-121342-rss.html"/>
+        <published>2016-06-07T11:19:02+02:00</published>
+        <updated>2016-06-07T11:19:02+02:00</updated>
+        <id>http://www.golem.de/news/anga-com-tv-kabelnetze-erreichen-im-naechsten-jahr-800-mbit-s-1606-121342-rss.html</id>
+        <author>
+            <name>Achim Sawall</name>
+        </author>
+        <summary type="html">Höhere Datenraten im TV-Kabelnetz hat der Chef des Branchenverbandes Anga angekündigt. Das hybride Glasfaser-Koaxialkabel der Kabelnetzbetreiber sei der dünnen Kupferdoppelader rein physikalisch überlegen. (&lt;a href=&quot;http://www.golem.de/specials/angacom/&quot;&gt;Anga Com&lt;/a&gt;, &lt;a href=&quot;http://www.golem.de/specials/glasfaser/&quot;&gt;Glasfaser&lt;/a&gt;) &lt;img src=&quot;http://cpx.golem.de/cpx.php?class=17&amp;amp;aid=121342&amp;amp;page=1&amp;amp;ts=1465291140&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+</feed>

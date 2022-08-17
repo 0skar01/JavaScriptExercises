@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="transform-to-html5.xsl" type="text/xsl"?>
+<!-- generator="FeedCreator 1.6" -->
+<feed xmlns="http://www.w3.org/2005/Atom"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xml:lang="de">
+    <title type="html">Golem.de - Games</title>
+    <subtitle type="html">IT-News fuer Profis</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://rss.golem.de/rss.php?ms=games&amp;feed=ATOM1.0"/>
+    <link rel="alternate" type="text/html" href="https://www.golem.de/specials/games/"/>
+    <id>https://www.golem.de/specials/games/</id>
+    <logo>https://www.golem.de/staticrl/images/golem-rss.png</logo>
+    <icon>https://www.golem.de/favicon.ico</icon>
+    <updated>2022-06-22T08:06:05+02:00</updated>
+    <generator>FeedCreator 1.6</generator>
+    <entry>
+        <title type="html">Apex Pro Mini: Steelseries bringt kleine Tastatur mit spannenden Schaltern</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/apex-pro-mini-steelseries-bringt-kleine-tastatur-mit-spannenden-schaltern-2206-166306.html"/>
+        <published>2022-06-21T16:26:08+02:00</published>
+        <updated>2022-06-21T16:26:08+02:00</updated>
+        <id>https://www.golem.de/news/apex-pro-mini-steelseries-bringt-kleine-tastatur-mit-spannenden-schaltern-2206-166306.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Apex Pro Mini verwendet eine Weiterentwicklung von Steelseries' Omnipoint-Switches. Der Auslösepunkt ist variabel und kann bei nur 0,2 mm liegen. (&lt;a href=&quot;https://www.golem.de/specials/steelseries/&quot;&gt;Steelseries&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/eingabegeraet/&quot;&gt;Eingabegerät&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166306&amp;amp;page=1&amp;amp;ts=1655821562&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Ferngesteuertes Auto ausprobiert: Wenn 4G für das Autofahren nicht ausreicht</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ferngesteuertes-auto-ausprobiert-wenn-4g-fuer-das-autofahren-nicht-ausreicht-2206-166058.html"/>
+        <published>2022-06-21T12:04:10+02:00</published>
+        <updated>2022-06-21T12:04:10+02:00</updated>
+        <id>https://www.golem.de/news/ferngesteuertes-auto-ausprobiert-wenn-4g-fuer-das-autofahren-nicht-ausreicht-2206-166058.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Carsharing-Anbieter Elmo zeigt uns seine Lösung für ferngesteuertes Fahren in Städten und stößt dabei an die Grenzen der deutschen Mobilfunknetze. (&lt;a href=&quot;https://www.golem.de/specials/elektromobilitaet/&quot;&gt;Elektromobilität&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/elektroauto/&quot;&gt;Elektroauto&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166058&amp;amp;page=1&amp;amp;ts=1655805842&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Bastelprojekt: 2 Zentimeter dicke Playstation 5 ist wassergekühlt</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/bastelprojekt-2-zentimeter-dicke-playstation-5-ist-wassergekuehlt-2206-166270.html"/>
+        <published>2022-06-20T16:11:02+02:00</published>
+        <updated>2022-06-20T16:11:02+02:00</updated>
+        <id>https://www.golem.de/news/bastelprojekt-2-zentimeter-dicke-playstation-5-ist-wassergekuehlt-2206-166270.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Youtuber DIY Perks hat seine eigene dünne Playstation 5 gebaut. Die Wasserkühlung ist effizient, allerdings war der Bauweg steinig. (&lt;a href=&quot;https://www.golem.de/specials/playstation-5/&quot;&gt;Playstation 5&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/sony/&quot;&gt;Sony&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166270&amp;amp;page=1&amp;amp;ts=1655734262&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Fazit Summer Game Fest 2022: Neben Starfield gab es zu viele &quot;No Shows&quot;</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/fazit-summer-game-fest-2022-neben-starfield-gab-es-zu-viele-no-shows-2206-166222.html"/>
+        <published>2022-06-17T14:00:11+02:00</published>
+        <updated>2022-06-17T14:00:11+02:00</updated>
+        <id>https://www.golem.de/news/fazit-summer-game-fest-2022-neben-starfield-gab-es-zu-viele-no-shows-2206-166222.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Gameplay von Starfield - aber keine Infos zu God of War, Avowed, Nintendo-Neuheiten oder Hardware: Die Spielebranche hat ein E3-Problem. (&lt;a href=&quot;https://www.golem.de/specials/starfield/&quot;&gt;Starfield&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/e3/&quot;&gt;E3&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166222&amp;amp;page=1&amp;amp;ts=1655467209&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Star Wars Kotor: Knights of the Old Republic 2 bekommt noch einmal DLC</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/star-wars-kotor-knights-of-the-old-republic-2-bekommt-noch-einmal-dlc-2206-166185.html"/>
+        <published>2022-06-16T11:20:13+02:00</published>
+        <updated>2022-06-16T11:20:13+02:00</updated>
+        <id>https://www.golem.de/news/star-wars-kotor-knights-of-the-old-republic-2-bekommt-noch-einmal-dlc-2206-166185.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Ein verbessertes Ende, mehr Dialoge und eine Storymission: Star Wars Kotor 2 von 2005 bekommt zusätzliche Inhalte als Downloadable Content. (&lt;a href=&quot;https://www.golem.de/specials/star-wars/&quot;&gt;Star Wars&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/bioware/&quot;&gt;Bioware&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166185&amp;amp;page=1&amp;amp;ts=1655371208&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Microsoft: Flight Simulator erlaubt schönere Flüge über Key Largo</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/microsoft-flight-simulator-erlaubt-schoenere-fluege-ueber-key-largo-2206-166157.html"/>
+        <published>2022-06-15T14:22:09+02:00</published>
+        <updated>2022-06-15T14:22:09+02:00</updated>
+        <id>https://www.golem.de/news/microsoft-flight-simulator-erlaubt-schoenere-fluege-ueber-key-largo-2206-166157.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Ab Herbst können Piloten im Heli und mit dem A310 fliegen, ein World Update für die USA gibt's bereits jetzt - und ein Raumschiff aus Halo. (&lt;a href=&quot;https://www.golem.de/specials/flugsimulator/&quot;&gt;Flugsimulator&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/microsoft/&quot;&gt;Microsoft&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166157&amp;amp;page=1&amp;amp;ts=1655295722&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Capcom: Erweiterung für Resident Evil 8 mit Rose angekündigt</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/capcom-erweiterung-fuer-resident-evil-8-mit-rose-angekuendigt-2206-166118.html"/>
+        <published>2022-06-14T13:15:10+02:00</published>
+        <updated>2022-06-14T13:15:10+02:00</updated>
+        <id>https://www.golem.de/news/capcom-erweiterung-fuer-resident-evil-8-mit-rose-angekuendigt-2206-166118.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Eine Story-Erweiterung für Village, Next-Gen-Upgrades für die neueren Serienteile und Multiplayer: Capcom hat viel vor mit Resident Evil. (&lt;a href=&quot;https://www.golem.de/specials/resident-evil/&quot;&gt;Resident Evil&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/capcom/&quot;&gt;Capcom&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166118&amp;amp;page=1&amp;amp;ts=1655205302&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Razer: Neuer Kishi-Controller funktioniert mit Pixel-Smartphones</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/razer-neuer-kishi-controller-funktioniert-mit-pixel-smartphones-2206-166083.html"/>
+        <published>2022-06-13T15:15:12+02:00</published>
+        <updated>2022-06-13T15:15:12+02:00</updated>
+        <id>https://www.golem.de/news/razer-neuer-kishi-controller-funktioniert-mit-pixel-smartphones-2206-166083.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Kishi V2 bietet die gleichen Buttons wie Razers Wolverine-Controller und passt dank eines neuen Designs auf mehr Smartphones. (&lt;a href=&quot;https://www.golem.de/specials/razer/&quot;&gt;Razer&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/smartphone/&quot;&gt;Smartphone&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166083&amp;amp;page=1&amp;amp;ts=1655126109&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Blizzard: Overwatch 2 erscheint Free-to-Play und Diablo 4 im Jahr 2023</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/blizzard-overwatch-2-erscheint-free-to-play-und-diablo-4-im-jahr-2023-2206-166054.html"/>
+        <published>2022-06-12T21:38:05+02:00</published>
+        <updated>2022-06-12T21:38:05+02:00</updated>
+        <id>https://www.golem.de/news/blizzard-overwatch-2-erscheint-free-to-play-und-diablo-4-im-jahr-2023-2206-166054.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der erste Teil erschien Vollpreis, aber Overwatch 2 kommt Free-to-Play im Oktober 2022. Diablo 4 mit Necromancer ist für 2023 angekündigt. (&lt;a href=&quot;https://www.golem.de/specials/blizzard/&quot;&gt;Blizzard&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/diablo/&quot;&gt;Diablo&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166054&amp;amp;page=1&amp;amp;ts=1655062681&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Smartphones: Verbraucherschutzsenatorin gegen Kostenfalle bei Spiele-Apps</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/smartphones-verbraucherschutzsenatorin-gegen-kostenfalle-bei-spiele-apps-2206-166050.html"/>
+        <published>2022-06-12T10:23:02+02:00</published>
+        <updated>2022-06-12T10:23:02+02:00</updated>
+        <id>https://www.golem.de/news/smartphones-verbraucherschutzsenatorin-gegen-kostenfalle-bei-spiele-apps-2206-166050.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Hamburgs Verbraucherschutzsenatorin Anna Gallina hat verschiedene Vorschläge zur Erreichung ihrer Ziele rund um Spiele-Apps. (&lt;a href=&quot;https://www.golem.de/specials/smartphone/&quot;&gt;Smartphone&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/tablet/&quot;&gt;Tablet&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166050&amp;amp;page=1&amp;amp;ts=1655022182&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Return to Moria: Survivalgame auf Basis von The Lord of the Rings angekündigt</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/return-to-moria-survivalgame-auf-basis-von-the-lord-of-the-rings-angekuendigt-2206-166042.html"/>
+        <published>2022-06-11T11:19:03+02:00</published>
+        <updated>2022-06-11T11:19:03+02:00</updated>
+        <id>https://www.golem.de/news/return-to-moria-survivalgame-auf-basis-von-the-lord-of-the-rings-angekuendigt-2206-166042.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Abenteuer in den prozedural generierten Minen von Moria: Darum geht es in einem PC-Survivalgame auf Basis von Der Herr der Ringe. (&lt;a href=&quot;https://www.golem.de/specials/der-herr-der-ringe/&quot;&gt;Der Herr der Ringe&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/epic-games/&quot;&gt;Epic Games&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166042&amp;amp;page=1&amp;amp;ts=1654939141&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">American Arcadia: Action- und Schleichspiel rund um TV-Show</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/american-arcadia-action-und-schleichspiel-rund-um-tv-show-2206-166032.html"/>
+        <published>2022-06-10T17:15:04+02:00</published>
+        <updated>2022-06-10T17:15:04+02:00</updated>
+        <id>https://www.golem.de/news/american-arcadia-action-und-schleichspiel-rund-um-tv-show-2206-166032.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die TV-Zuschauer finden Trevor Hills zu langweilig - deshalb soll er sterben. In Amercian Arcadia müssen wir ihn retten. (&lt;a href=&quot;https://www.golem.de/specials/indiegames/&quot;&gt;Indiegames&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/adventure/&quot;&gt;Adventure&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166032&amp;amp;page=1&amp;amp;ts=1654874102&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Lego: Bastler integriert OLED-Display in Klemmbausteine</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/lego-bastler-integriert-oled-display-in-klemmbausteine-2206-166001.html"/>
+        <published>2022-06-10T09:22:03+02:00</published>
+        <updated>2022-06-10T09:22:03+02:00</updated>
+        <id>https://www.golem.de/news/lego-bastler-integriert-oled-display-in-klemmbausteine-2206-166001.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Mittels Controller und OLED-Display animiert der Bastler James Brown die vielen bedruckten Computer und Radarbildschirme in Lego-Modellen. (&lt;a href=&quot;https://www.golem.de/specials/lego/&quot;&gt;Lego&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/oled/&quot;&gt;OLED&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=166001&amp;amp;page=1&amp;amp;ts=1654845722&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Anzeige: 4K-Monitor von Acer mit über 150 Euro Rabatt bei Amazon</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/anzeige-4k-monitor-von-acer-mit-ueber-150-euro-rabatt-bei-amazon-2206-165989.html"/>
+        <published>2022-06-09T14:20:12+02:00</published>
+        <updated>2022-06-09T14:20:12+02:00</updated>
+        <id>https://www.golem.de/news/anzeige-4k-monitor-von-acer-mit-ueber-150-euro-rabatt-bei-amazon-2206-165989.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Bei Amazon sind derzeit einige Monitore von Acer mit hohen Rabatten verfügbar. Außerdem: ein Monitor von Lenovo, Samsung-Smartphones und mehr. (&lt;a href=&quot;https://www.golem.de/specials/display/&quot;&gt;Display&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/amazon/&quot;&gt;Amazon&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165989&amp;amp;page=1&amp;amp;ts=1654777203&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Apple, HBO, Project Cambria: Die Spielemesse E3 kommt zurück</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/apple-hbo-project-cambria-die-spielemesse-e3-kommt-zurueck-2206-165942.html"/>
+        <published>2022-06-08T17:18:04+02:00</published>
+        <updated>2022-06-08T17:18:04+02:00</updated>
+        <id>https://www.golem.de/news/apple-hbo-project-cambria-die-spielemesse-e3-kommt-zurueck-2206-165942.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html"> Was am 8. Juni 2022 neben den großen Meldungen sonst noch passiert ist, in aller Kürze. (&lt;a href=&quot;https://www.golem.de/specials/kurznews/&quot;&gt;Kurznews&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/apple/&quot;&gt;Apple&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165942&amp;amp;page=1&amp;amp;ts=1654701482&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Anzeige: Microsoft Surface Pro 8 bei Amazon um 280 Euro reduziert</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/anzeige-microsoft-surface-pro-8-bei-amazon-um-280-euro-reduziert-2206-165865.html"/>
+        <published>2022-06-03T14:25:07+02:00</published>
+        <updated>2022-06-03T14:25:07+02:00</updated>
+        <id>https://www.golem.de/news/anzeige-microsoft-surface-pro-8-bei-amazon-um-280-euro-reduziert-2206-165865.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Microsofts 2-in-1-Tablet ist derzeit bei Amazon in zum Schnäppchenpreis erhältlich. Außerdem: Galaxy Tabs, Fire TV Sticks und Kindle E-Reader. (&lt;a href=&quot;https://www.golem.de/specials/surface/&quot;&gt;Surface&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/amazon/&quot;&gt;Amazon&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165865&amp;amp;page=1&amp;amp;ts=1654259102&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Bluebrixx Star Trek: Deep Space Nine kommt als großes Klemmbausteinset</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/bluebrixx-star-trek-deep-space-nine-kommt-als-grosses-klemmbausteinset-2206-165849.html"/>
+        <published>2022-06-03T11:35:12+02:00</published>
+        <updated>2022-06-03T11:35:12+02:00</updated>
+        <id>https://www.golem.de/news/bluebrixx-star-trek-deep-space-nine-kommt-als-grosses-klemmbausteinset-2206-165849.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Nach der USS Enterprise bringt Bluebrixx nun auch Deep Space Nine und den klingonischen Bird-of-Prey als Star-Trek-Klemmbausteinmodell. (&lt;a href=&quot;https://www.golem.de/specials/star-trek/&quot;&gt;Star Trek&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/lego/&quot;&gt;Lego&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165849&amp;amp;page=1&amp;amp;ts=1654248903&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Deutscher Meister: Fußballclubs müssen an virtueller Bundesliga teilnehmen</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/deutscher-meister-fussballclubs-muessen-an-virtueller-bundesliga-teilnehmen-2205-165764.html"/>
+        <published>2022-05-31T15:40:07+02:00</published>
+        <updated>2022-05-31T15:40:07+02:00</updated>
+        <id>https://www.golem.de/news/deutscher-meister-fussballclubs-muessen-an-virtueller-bundesliga-teilnehmen-2205-165764.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Vereine der Bundesliga wollen E-Sport künftig ernst nehmen. Speziell beim FC Bayern dürfte das zu Problemen führen. (&lt;a href=&quot;https://www.golem.de/specials/fussball/&quot;&gt;Fußball&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/konami/&quot;&gt;Konami&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165764&amp;amp;page=1&amp;amp;ts=1654004403&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Gaming: Frankreich findet französische Begriffe für DLC und Streamer</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/gaming-frankreich-findet-franzoesische-begriffe-fuer-dlc-und-streamer-2205-165753.html"/>
+        <published>2022-05-31T10:45:05+02:00</published>
+        <updated>2022-05-31T10:45:05+02:00</updated>
+        <id>https://www.golem.de/news/gaming-frankreich-findet-franzoesische-begriffe-fuer-dlc-und-streamer-2205-165753.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">E-Sport heißt jeu vidéo de compétition: 40 englische Begriffe der Gaming-Welt sollen in Frankreich ins Französische gewandelt werden. (&lt;a href=&quot;https://www.golem.de/specials/e-sport/&quot;&gt;E-Sport&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/spielestreaming/&quot;&gt;Spielestreaming&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165753&amp;amp;page=1&amp;amp;ts=1653986702&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Aus dem Verlag: Neun Golem-PCs noch weiter im Preis gesenkt</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/aus-dem-verlag-neun-golem-pcs-noch-weiter-im-preis-gesenkt-2205-165745.html"/>
+        <published>2022-05-31T07:15:08+02:00</published>
+        <updated>2022-05-31T07:15:08+02:00</updated>
+        <id>https://www.golem.de/news/aus-dem-verlag-neun-golem-pcs-noch-weiter-im-preis-gesenkt-2205-165745.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Solange Grafikkarten sukzessive weniger kosten, gilt das auch für die Golem-PCs: Die konfigurierbaren Systeme werden bis zu 200 Euro günstiger. (&lt;a href=&quot;https://www.golem.de/specials/ausdemverlag/&quot;&gt;Aus dem Verlag&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/cpu/&quot;&gt;Prozessor&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165745&amp;amp;page=1&amp;amp;ts=1653974103&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Stunlock Studios: V Rising saugt sich zum Bestseller</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/stunlock-studios-v-rising-saugt-sich-zum-bestseller-2205-165741.html"/>
+        <published>2022-05-30T17:45:03+02:00</published>
+        <updated>2022-05-30T17:45:03+02:00</updated>
+        <id>https://www.golem.de/news/stunlock-studios-v-rising-saugt-sich-zum-bestseller-2205-165741.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Erster Platz bei Steam: Trotz Early Access schafft das dezent an Diablo und Valheim erinnernde V Rising einen starken Start. (&lt;a href=&quot;https://www.golem.de/specials/early-access/&quot;&gt;Early Access&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/rollenspiel/&quot;&gt;Rollenspiel&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165741&amp;amp;page=1&amp;amp;ts=1653925502&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Aya Neo Air Plus: 290-Dollar-Handheld konkurriert mit Steam Deck und Switch</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/aya-neo-air-plus-290-dollar-handheld-konkurriert-mit-steam-deck-und-switch-2205-165728.html"/>
+        <published>2022-05-30T13:15:16+02:00</published>
+        <updated>2022-05-30T13:15:16+02:00</updated>
+        <id>https://www.golem.de/news/aya-neo-air-plus-290-dollar-handheld-konkurriert-mit-steam-deck-und-switch-2205-165728.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Aya Neo Air Plus verwendet AMDs Mendocino-APUs und kann mit Steam OS laufen. Das Gerät soll durch den geringen Preis überzeugen. (&lt;a href=&quot;https://www.golem.de/specials/steam-deck/&quot;&gt;Steam Deck&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/amd/&quot;&gt;AMD&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165728&amp;amp;page=1&amp;amp;ts=1653909308&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Retro Gaming: Wie man einen Emulator programmiert</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/retro-gaming-wie-man-einen-emulator-programmiert-2205-165507.html"/>
+        <published>2022-05-27T12:00:09+02:00</published>
+        <updated>2022-05-27T12:00:09+02:00</updated>
+        <id>https://www.golem.de/news/retro-gaming-wie-man-einen-emulator-programmiert-2205-165507.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Warum nicht mal selbst einen Emulator programmieren? Das ist lehrreich und macht Spaß - wenn er funktioniert. Wie es geht, zeigen wir am Gameboy. (&lt;a href=&quot;https://www.golem.de/specials/emulator/&quot;&gt;Emulator&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/cpu/&quot;&gt;Prozessor&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165507&amp;amp;page=1&amp;amp;ts=1653645602&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Cloudgaming: Microsoft bestätigt Game-Pass-Streaming-Box</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/cloudgaming-microsoft-bestaetigt-game-pass-streaming-box-2205-165690.html"/>
+        <published>2022-05-27T11:10:02+02:00</published>
+        <updated>2022-05-27T11:10:02+02:00</updated>
+        <id>https://www.golem.de/news/cloudgaming-microsoft-bestaetigt-game-pass-streaming-box-2205-165690.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Seit Jahren gibt es Gerüchte über eine Alternative zur aktuellen Xbox-Konsolengeneration. Microsoft hat dies nun ganz konkret bestätigt. (&lt;a href=&quot;https://www.golem.de/specials/xbox/&quot;&gt;Xbox&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/microsoft/&quot;&gt;Microsoft&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165690&amp;amp;page=1&amp;amp;ts=1653642602&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Anzeige: Apple Macbook Pro um 360 Euro reduziert bei Amazon</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/anzeige-apple-macbook-pro-um-360-euro-reduziert-bei-amazon-2205-165659.html"/>
+        <published>2022-05-25T14:10:11+02:00</published>
+        <updated>2022-05-25T14:10:11+02:00</updated>
+        <id>https://www.golem.de/news/anzeige-apple-macbook-pro-um-360-euro-reduziert-bei-amazon-2205-165659.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Zurzeit gibt es bei Amazon günstige Apple Macbooks. Außerdem reduziert: 4K-Fernseher von Sony und Samsung, eine Tastatur und vieles mehr. (&lt;a href=&quot;https://www.golem.de/specials/macbook/&quot;&gt;Macbook&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/apple/&quot;&gt;Apple&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165659&amp;amp;page=1&amp;amp;ts=1653480602&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">iFixit &amp; Valve: Offizielle Ersatzteile für das Steam Deck verfügbar</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/ifixit-valve-offiziell-ersatzteile-fuer-das-steam-deck-verfuegbar-2205-165638.html"/>
+        <published>2022-05-24T15:55:10+02:00</published>
+        <updated>2022-05-24T15:55:10+02:00</updated>
+        <id>https://www.golem.de/news/ifixit-valve-offiziell-ersatzteile-fuer-das-steam-deck-verfuegbar-2205-165638.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">iFixit und Valve kooperieren beim Steam Deck: Neben Bauteilen wie Displays oder Lüfter gibt es passende Reparaturanleitungen. (&lt;a href=&quot;https://www.golem.de/specials/steam-deck/&quot;&gt;Steam Deck&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/steam/&quot;&gt;Steam&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165638&amp;amp;page=1&amp;amp;ts=1653400502&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Anzeige: Sony-Fernseher mit 4K bei Amazon mit 950 Euro Rabatt</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/anzeige-sony-fernseher-mit-4k-bei-amazon-mit-950-euro-rabatt-2205-165635.html"/>
+        <published>2022-05-24T15:08:07+02:00</published>
+        <updated>2022-05-24T15:08:07+02:00</updated>
+        <id>https://www.golem.de/news/anzeige-sony-fernseher-mit-4k-bei-amazon-mit-950-euro-rabatt-2205-165635.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Nach den Smartphones gestern sind heute auch UHD-Fernseher von Sony im Sonderangebot. Außerdem: Samsung-Fernseher, weitere 4K-Fernseher und mehr. (&lt;a href=&quot;https://www.golem.de/specials/sony/&quot;&gt;Sony&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/smartphone/&quot;&gt;Smartphone&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165635&amp;amp;page=1&amp;amp;ts=1653397682&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Anzeige: Microsoft Surface Pro 8 bei Amazon mit fast 400 Euro Rabatt</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/anzeige-microsoft-surface-pro-8-bei-amazon-mit-fast-400-euro-rabatt-2205-165554.html"/>
+        <published>2022-05-20T15:25:06+02:00</published>
+        <updated>2022-05-20T15:25:06+02:00</updated>
+        <id>https://www.golem.de/news/anzeige-microsoft-surface-pro-8-bei-amazon-mit-fast-400-euro-rabatt-2205-165554.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Noch sind die beliebten Microsoft-Surface-Produkte bei Amazon im Sonderangebot. Das Angebot gilt allerdings nicht mehr lange. (&lt;a href=&quot;https://www.golem.de/specials/surface/&quot;&gt;Surface&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/amazon/&quot;&gt;Amazon&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165554&amp;amp;page=1&amp;amp;ts=1653053102&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Geforce RTX 3070: Cloud-Gaming mit Shadow wird noch teurer</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/geforce-rtx-3070-cloud-gaming-mit-shadow-wird-noch-teurer-2205-165498.html"/>
+        <published>2022-05-19T11:31:10+02:00</published>
+        <updated>2022-05-19T11:31:10+02:00</updated>
+        <id>https://www.golem.de/news/geforce-rtx-3070-cloud-gaming-mit-shadow-wird-noch-teurer-2205-165498.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Nachdem Shadow einen Käufer gefunden hat, war es lange still um den Cloud-Gaming-Anbieter. Nun kommt er zurück mit höheren Preisen. (&lt;a href=&quot;https://www.golem.de/specials/cloud-computing/&quot;&gt;Cloud Computing&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/virtualisierung/&quot;&gt;Virtualisierung&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165498&amp;amp;page=1&amp;amp;ts=1652952662&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Nintendo, Kerbal Space, Mars: Costa Rica kämpft gegen Ransomware-Akteure</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/nintendo-kerbal-space-mars-cotsta-rica-kaempft-gegen-ransomware-akteure-2205-165477.html"/>
+        <published>2022-05-18T17:19:08+02:00</published>
+        <updated>2022-05-18T17:19:08+02:00</updated>
+        <id>https://www.golem.de/news/nintendo-kerbal-space-mars-cotsta-rica-kaempft-gegen-ransomware-akteure-2205-165477.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html"> Was am 18. Mai 2022 neben den großen Meldungen sonst noch passiert ist, in aller Kürze. (&lt;a href=&quot;https://www.golem.de/specials/kurznews/&quot;&gt;Kurznews&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/suse/&quot;&gt;Suse&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165477&amp;amp;page=1&amp;amp;ts=1652887141&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Asus ROG Flow X16: Gaming-Laptop im ungewöhnlichen Formfaktor nutzt Ryzen 6000</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/asus-rog-flow-x16-gaming-laptop-im-ungewoehnlichen-formfaktor-nutzt-ryzen-6000-2205-165464.html"/>
+        <published>2022-05-18T13:30:07+02:00</published>
+        <updated>2022-05-18T13:30:07+02:00</updated>
+        <id>https://www.golem.de/news/asus-rog-flow-x16-gaming-laptop-im-ungewoehnlichen-formfaktor-nutzt-ryzen-6000-2205-165464.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Das ROG Flow X16 mit 360-Grad-Scharnier kann auf AMDs neue Rembrandt-SoCs und eine der schnellsten mobilen GPUs von Nvidia zugreifen. (&lt;a href=&quot;https://www.golem.de/specials/asus/&quot;&gt;Asus&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/amd/&quot;&gt;AMD&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165464&amp;amp;page=1&amp;amp;ts=1652873403&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Anzeige: Microsoft Surface Pro 8 mit 330 Euro Rabatt bei Amazon</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/anzeige-microsoft-surface-pro-8-mit-330-euro-rabatt-bei-amazon-2205-165399.html"/>
+        <published>2022-05-16T14:54:11+02:00</published>
+        <updated>2022-05-16T14:54:11+02:00</updated>
+        <id>https://www.golem.de/news/anzeige-microsoft-surface-pro-8-mit-330-euro-rabatt-bei-amazon-2205-165399.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Produkte der Reihe Microsoft Surface sind diese Woche bei Amazon im Sonderangebot. Außerdem: Tablets und Notebooks von Lenovo und vieles mehr. (&lt;a href=&quot;https://www.golem.de/specials/surface/&quot;&gt;Surface&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/amazon/&quot;&gt;Amazon&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165399&amp;amp;page=1&amp;amp;ts=1652705642&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Aya Neo 2 und Neo Air: Ayas Gaming-Handheld bekommt AMD Ryzen 6000</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/aya-neo-2-und-neo-air-ayas-gaming-handheld-bekommt-amd-ryzen-6000-2205-165384.html"/>
+        <published>2022-05-16T11:13:06+02:00</published>
+        <updated>2022-05-16T11:13:06+02:00</updated>
+        <id>https://www.golem.de/news/aya-neo-2-und-neo-air-ayas-gaming-handheld-bekommt-amd-ryzen-6000-2205-165384.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der Aya Neo 2 dürfte mit Rembrandt-APU leistungsfähiger sein. Der neue Neo Air mit OLED wiegt derweil weniger als die Nintendo Switch. (&lt;a href=&quot;https://www.golem.de/specials/mobil/&quot;&gt;Mobil&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/oled/&quot;&gt;OLED&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165384&amp;amp;page=1&amp;amp;ts=1652692382&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Anzeige: Apple Macbook Pro mit über 350 Euro Rabatt bei Amazon</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/anzeige-apple-macbook-pro-mit-ueber-350-euro-rabatt-bei-amazon-2205-165351.html"/>
+        <published>2022-05-13T14:40:04+02:00</published>
+        <updated>2022-05-13T14:40:04+02:00</updated>
+        <id>https://www.golem.de/news/anzeige-apple-macbook-pro-mit-ueber-350-euro-rabatt-bei-amazon-2205-165351.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Zurzeit gibt es bei Amazon das Macbook Pro in verschiedenen Konfigurationen zu reduzierten Preisen. Außerdem: Smartwatches, Tablets und mehr. (&lt;a href=&quot;https://www.golem.de/specials/macbook/&quot;&gt;Macbook&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/apple/&quot;&gt;Apple&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165351&amp;amp;page=1&amp;amp;ts=1652445603&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Aus dem Verlag: Golem-PCs mit mehr Performance zum selben Preis</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/aus-dem-verlag-golem-pcs-mit-mehr-performance-zum-selben-preis-2205-165319.html"/>
+        <published>2022-05-13T08:00:11+02:00</published>
+        <updated>2022-05-13T08:00:11+02:00</updated>
+        <id>https://www.golem.de/news/aus-dem-verlag-golem-pcs-mit-mehr-performance-zum-selben-preis-2205-165319.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Wir haben die günstigen Golem-Systeme mit schnelleren Grafikkarten und Prozessoren versehen, auch Raytracing wird durchweg unterstützt. (&lt;a href=&quot;https://www.golem.de/specials/ausdemverlag/&quot;&gt;Aus dem Verlag&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/cpu/&quot;&gt;Prozessor&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165319&amp;amp;page=1&amp;amp;ts=1652421602&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Transformers 10302: Optimus Prime aus Lego kann sich in einen Truck verwandeln</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/transformers-10302-optimus-prime-aus-lego-kann-sich-in-einen-truck-verwandeln-2205-165317.html"/>
+        <published>2022-05-12T16:40:09+02:00</published>
+        <updated>2022-05-12T16:40:09+02:00</updated>
+        <id>https://www.golem.de/news/transformers-10302-optimus-prime-aus-lego-kann-sich-in-einen-truck-verwandeln-2205-165317.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Lego baut den Autobots-Anführer Optimus Prime aus Klemmbausteinen nach. Transformers-Fans können sich über die Verwandlungsfunktion freuen. (&lt;a href=&quot;https://www.golem.de/specials/lego/&quot;&gt;Lego&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/games/&quot;&gt;Games&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165317&amp;amp;page=1&amp;amp;ts=1652366402&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Hometrainer: Zwift stoppt Smartbike und entlässt Mitarbeiter</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/hometrainer-zwift-stoppt-smartbike-und-entlaesst-mitarbeiter-2205-165312.html"/>
+        <published>2022-05-12T15:25:05+02:00</published>
+        <updated>2022-05-12T15:25:05+02:00</updated>
+        <id>https://www.golem.de/news/hometrainer-zwift-stoppt-smartbike-und-entlaesst-mitarbeiter-2205-165312.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Peloton und andere Anbieter von Sportgeräten für Zuhause kämpfen schon länger mit Problemen. Nun wird auch beim Rennradspiel Zwift gespart. (&lt;a href=&quot;https://www.golem.de/specials/zwift/&quot;&gt;Zwift&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/eingabegeraet/&quot;&gt;Eingabegerät&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165312&amp;amp;page=1&amp;amp;ts=1652361903&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Tastaturen: Deutscher Tastaturhersteller Cherry macht weniger Umsatz</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/tastaturen-deutscher-tastaturhersteller-cherry-macht-weniger-umsatz-2205-165295.html"/>
+        <published>2022-05-12T10:55:07+02:00</published>
+        <updated>2022-05-12T10:55:07+02:00</updated>
+        <id>https://www.golem.de/news/tastaturen-deutscher-tastaturhersteller-cherry-macht-weniger-umsatz-2205-165295.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Durch schlechte Verkaufszahlen im Gaming-Bereich verzeichnet Cherry einen Umsatzrückgang. Das Unternehmen bleibt optimistisch. (&lt;a href=&quot;https://www.golem.de/specials/tastatur/&quot;&gt;Tastatur&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/eingabegeraet/&quot;&gt;Eingabegerät&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165295&amp;amp;page=1&amp;amp;ts=1652345702&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Anzeige: Full-HD-Monitor von Viewsonic mit 90 Euro Rabatt bei Amazon</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/anzeige-top-monitor-von-viewsonic-mit-90-euro-rabatt-bei-amazon-2205-165268.html"/>
+        <published>2022-05-11T14:54:10+02:00</published>
+        <updated>2022-05-11T14:54:10+02:00</updated>
+        <id>https://www.golem.de/news/anzeige-top-monitor-von-viewsonic-mit-90-euro-rabatt-bei-amazon-2205-165268.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Der vielseitig einsetzbare Monitor von Viewsonic ist derzeit deutlich reduziert. Außerdem: die Apple Watch 7, Samsung Galaxy Watch 4 Classic und mehr. (&lt;a href=&quot;https://www.golem.de/specials/display/&quot;&gt;Display&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/speichermedien/&quot;&gt;Speichermedien&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165268&amp;amp;page=1&amp;amp;ts=1652273642&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+    <entry>
+        <title type="html">Viper V2 Pro: Razers drahtlose Maus wiegt nur 58 Gramm</title>
+        <link rel="alternate" type="text/html" href="https://www.golem.de/news/viper-v2-pro-razers-drahtlose-maus-wiegt-nur-58-gramm-2205-165255.html"/>
+        <published>2022-05-11T11:19:06+02:00</published>
+        <updated>2022-05-11T11:19:06+02:00</updated>
+        <id>https://www.golem.de/news/viper-v2-pro-razers-drahtlose-maus-wiegt-nur-58-gramm-2205-165255.html</id>
+        <author>
+            <name>Golem.de</name>
+        </author>
+        <summary type="html">Die Viper V2 Pro ist leichter als Logitechs G Pro Superlight und viele andere Mäuse. Dafür wird auf einige Features und Tasten verzichtet. (&lt;a href=&quot;https://www.golem.de/specials/razer/&quot;&gt;Razer&lt;/a&gt;, &lt;a href=&quot;https://www.golem.de/specials/eingabegeraet/&quot;&gt;Eingabegerät&lt;/a&gt;) &lt;img src=&quot;https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=165255&amp;amp;page=1&amp;amp;ts=1652260741&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</summary>
+    </entry>
+</feed>

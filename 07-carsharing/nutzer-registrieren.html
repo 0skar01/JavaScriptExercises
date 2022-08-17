@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Aufgabe: Benutzerfreundliche Registrierung</title>
+    <link rel="stylesheet" href="css/nutzer-registrieren.css">
+</head>
+
+<body>
+    <form method="get" action="data/index.php" id="registrierung">
+        <fieldset>
+            <legend>Nutzer registrieren</legend>
+            <p>
+                <label for="email">E-Mail Adresse: </label>
+                <input type="email" id="email" name="email" required autofocus>
+            </p>
+            <p>
+                <label for="password">Passwort:</label> 
+                <input type="password" id="password" name="password" required>
+                <img src="images/eye.svg" alt="" width="20" id="viewPassword">
+            </p>
+            <p>
+                <label for="passwordCheck">Passwort wiederholen:</label> 
+                <input type="password" id="passwordCheck" name="passwordCheck" required>
+                <img src="images/eye.svg" alt="" width="20" id="viewPasswordCheck">
+                <img src="images/check.svg" alt="" width="20" id="pwsMatch">
+                <img src="images/x.svg" alt="" width="20" id="pwsNoMatch">
+            </p>
+            <p>
+                <input type="reset" value="Abbrechen">
+                <input type="submit" value="Senden">
+            </p>
+        </fieldset>
+
+    </form>
+    <script src="js/formular.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,58 @@
+
+html { font-size: 100%;}
+
+body { font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+article > fieldset {
+    max-width: 100rem;
+}
+
+label {
+    display: block;
+}
+
+input[type=checkbox] + label,
+input[type=radio] + label,
+label[for=sepaOkay],
+label[for=agb]
+{
+    display: inline-block;
+    width: unset;
+}
+
+input:not([type="radio"]):not([type="checkbox"]):not([type="button"]), select {
+    width: 15rem;
+}
+
+#street, #raStrasse, #location, #raOrt { width: 11.7rem; }
+#number, #raNummer, #zip, #raPLZ { width: 3rem; }
+fieldset > fieldset {
+    border: none;
+    margin: 0.8rem 0;
+    padding: 0;
+}
+
+p.labelset { margin: 0;}
+
+label[for="street"], 
+label[for="number"], 
+label[for="zip"], 
+label[for="location"], 
+label[for="raPLZ"], 
+label[for="raOrt"] ,
+label[for="raStrasse"] ,
+label[for="raNummer"] 
+{
+    display: inline;
+    width: unset;
+    /* background-color: yellowgreen; */
+}
+
+@media screen and (min-width: 660px) {
+    label ,
+    p.labelset
+     {
+        display: inline-block;
+        width: 12rem;
+    }
+}

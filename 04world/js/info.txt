@@ -1,0 +1,7 @@
+Die Kontinente:
+
+ ["Europe","Asia","Africa","North America","South America","Oceania","Antarctica"];
+ 
+ Diese Kontinente haben keine Regionen:
+ 
+ ["Antarctica", "South America"]

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Einkaufsliste</title>
+    <link rel="stylesheet" href="css/einkaufsliste.css">
+</head>
+<body>
+    <article>
+        <h1>Einkaufsliste</h1>
+        <p>Übung folgender JavaScript Features:</p>
+        <ul>
+            <li>Übernehmen von Daten aus Eingabefeld</li>
+            <li>Interaktives Erzeugen, Verschieben und Löschen von DOM-Knoten</li>
+            <li>Daten Speichern in und Auslesen aus localStorage</li>
+        </ul>
+        <section id="praxis-einkaufsliste">
+            <h2>Meine Einkaufsliste</h2>
+            <fieldset>
+              <legend>Items erfassen:</legend>
+              <label for="item">Neues Item:</label> 
+              <input type="text" id="item" autofocus>
+              <button id="enter" title="Eintrag in Liste übernehmen"><span>Übernehmen</span></button>
+            </fieldset>
+            <section>
+              <h3>Aktionen</h3>
+              <button id="load" title="Liste aus Speicher laden"><span>Laden</span></button>
+              <button id="store" title="Liste speichern"><span>Speichern</span></button>
+              <button id="deleteall" title="Liste aus Speicher löschen"><span>Speicher Löschen</span></button>
+              <ul id="einkaufsliste"></ul>
+              <button id="up" title="Item nach oben verschieben"><span>Hoch</span></button>
+              <button id="down" title="Item nach unten verschieben"><span>Runter</span></button>
+              <button id="delete" title="Ausgewähltes Item löschen"><span>Löschen</span></button>
+            </section>
+          </section>
+    </article>
+    <article>
+      <h2>URL Parameter</h2>
+      <p><a href="../allgemein/javascript02-try-catch.html?kurs=FIA36&fach=JavaScript">Try and Catch</a></p>
+    </article>
+    <script src="js/einkaufsliste.js"></script>
+</body>
+</html>

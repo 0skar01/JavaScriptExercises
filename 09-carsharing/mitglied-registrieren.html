@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mitglied werden</title>
+    <link rel="stylesheet" href="css/mitglied-registrieren.css">
+</head>
+
+<body>
+    <article>
+        <h2>Mitglied werden</h2>
+        <form action="data/index.php" method="post">
+            <fieldset>
+                <legend>Persönliche Daten</legend>
+                <fieldset>
+                    <legend>Anrede</legend>
+                    <input type="radio" name="gender" value="w" required id="gender1">
+                    <label for="gender1">Frau</label>
+                    <input type="radio" name="gender" value="m" id="gender2">
+                    <label for="gender2"> Herr</label>
+                </fieldset>
+
+                <label for="title">Akadem. Titel</label>
+                <input type="text" name="title" id="title"> <br>
+                <label for="firstname">Vorname</label>
+                <input type="text" name="firstname" id="firstname" required> <br>
+                <label for="lastname">Nachname</label>
+                <input type="text" name="lastname" id="lastname" required> <br>
+
+                <p class="labelset">
+                    <label for="street">Straße</label> /
+                    <label for="number">Nr.</label>
+                </p>
+                <input id="street" type="text" name="street" required>
+                <input id="number" type="text" name="number" required> <br>
+
+                <p class="labelset">
+                    <label for="zip">PLZ</label> /
+                    <label for="location">Ort</label>
+                </p>
+                <input id="zip" type="text" name="zip" required>
+                <input id="location" type="text" name="city" required>
+                <p>derzeit nur Adressen in Deutschland möglich</p>
+                <input type="checkbox" id="extraRechnungsAdresse" name="extraRechnungsAdresse"
+                    value="extraRechnungsadresse"> <label for="extraRechnungsAdresse">Abweichende
+                    Rechnungsanschrift</label>
+                <fieldset id="fsRechnungsanschrift">
+                    <legend>Rechnungsanschrift</legend>
+                    <p class="labelset"><label for="raStrasse">Straße</label>/<label for="raNummer">Nummer</label></p>
+                    <input id="raStrasse" name="raStrasse" type="text"> <input id="raNummer" name="raNummer"
+                        type="text"> <br>
+                    <p class="labelset"><label for="raPLZ">PLZ</label>/<label for="raOrt">Ort</label></p>
+                    <input id="raPLZ" name="raPLZ" type="text"> <input id="raOrt" name="raOrt" type="text">
+                </fieldset>
+                <label for="birthdate">Geburtsdatum</label>
+                <input id="birthdate" type="date" name="birthdate" required>
+                <p>Eingabeformat: TT.MM.JJJJ</p>
+
+                <label for="placeOfBirth">Geburtsort</label>
+                <input type="text" name="placeOfBirth" id="placeOfBirth" required>
+                <fieldset>
+                    <legend>Lieblingsstation</legend>
+                    <label for="favCity">Bevorzugte Stadt:</label>
+                    <select name="favCity" id="favCity">
+                        <option value="0">Stadt wählen …</option>
+                        <option value="0">–––</option>
+                        <option value="100016">Bonn</option>
+                        <option value="53">Fürth</option>
+                        <option value="2502">Gießen</option>
+                        <option value="34100">Kassel</option>
+                        <option value="2500" selected="">Marburg</option>
+                        <option value="52">Nürnberg</option>
+                        <option value="100012">Würzburg</option>
+                    </select> <br>
+                    <label for="favStation">Bevorzugte Station</label>
+                    <select name="favStation" id="favStation">
+                        <option value="0">Wähle eine Station:</option>
+                        <option disabled="">---</option>
+                        <option value="400643">Am Plan</option>
+                        <option value="408083">August-Bebel-Platz</option>
+                        <option value="2532">Brücke</option>
+                        <option value="406717">Brüder-Grimm-Straße</option>
+                        <option value="405596">Cappel Tegut</option>
+                        <option value="400815">Elisabethkirche</option>
+                        <option value="408472">Erlengraben</option>
+                        <option value="400255">Friedhof</option>
+                        <option value="400253">Friedrich</option>
+                        <option value="408279">Friedrichsplatz</option>
+                        <option value="2533">Georg</option>
+                        <option value="406270">Georg-Gaßmann-Stadion</option>
+                        <option value="401958">Haselhecke</option>
+                        <option value="406667">Haspelstraße</option>
+                        <option value="408315">HBF Nordausgang Ladesäule</option>
+                        <option value="2503">HBF Stadtausgang Parkdeck</option>
+                        <option value="408202">Im Lichtenholz</option>
+                        <option value="2515">Ocker</option>
+                        <option value="405174">Quod</option>
+                        <option value="408470">Radestraße</option>
+                        <option value="2516">Rose</option>
+                        <option value="402859">Rudolphsplatz</option>
+                        <option value="408316">Savignystraße</option>
+                        <option value="32941">Softwarecenter</option>
+                        <option value="402977">Staatsarchiv</option>
+                        <option value="400996">Stadtbüro</option>
+                        <option value="2520">Stein</option>
+                        <option value="2521">Süd</option>
+                        <option value="402304">Turnhalle</option>
+                    </select>
+                </fieldset>
+
+            </fieldset>
+            <fieldset>
+                <legend>Führerschein</legend>
+                <label for="licenseNumber">Führerschein­nummer</label>
+                <input type="text" name="licenseNumber" id="licenseNumber" required> <br>
+                <label for="licenseDate">ausgestellt am</label>
+                <input id="licenseDate" type="date" name="licenseDate" required> <br>
+                <p>Eingabeformat: TT.MM.JJJJ</p>
+                <label for="licenseIssuer">Behörde</label>
+                <input type="text" name="licenseIssuer" id="licenseIssuer" required> <br>
+                <label for="licenseClass">Klassen</label>
+                <input type="text" name="licenseClass" id="licenseClass" maxlength="20" required> <br>
+            </fieldset>
+            <fieldset>
+                <legend>Kontakt- und Zugangsdaten</legend>
+                <label for="email">E-Mail-Adresse</label>
+                <input type="email" id="email" name="email" required>
+                <p>Für Rechnungsversand und Informationen sowie für unseren zweimal jährlich erscheinenden
+                    Newsletter</p>
+
+                <label for="mobile">Mobilnummer</label>
+                <input required type="text" name="mobile" id="mobile">
+                <p>für SMS-Bestätigungen (Beispiel: +49 160 1234567)</p>
+
+                <label for="password">Passwort</label>
+                <input required type="password"
+                    pattern="(?=^.{8,}$)(?=.*\d)(?=.*[\x22\x21\x23\xA7\x24\x25\x26\x27\x28\x29\x3D\x3F\x2A\x2B\x2C\x2D\x2E\x2F\x5C\x3A\x3B\x3D\x3D\x3E\x40\x5B\x5D\x5E\x5F\x60\x7B\x7C\x7D\x7E])(?=.*[A-Z])(?=.*[a-z]).*$"
+                    name="password" id="password">
+                <input type="button" value="Anzeigen">
+                <!-- <svg><use xlink:href="img/icons.svg#icon-thumb"></use></svg> -->
+                <p>
+                    Zum Einloggen auf Website und App; mindestens 8&nbsp;Zeichen, muss mindestens
+                    1&nbsp;Großbuchstaben, 1&nbsp;Kleinbuchstaben, 1&nbsp;Ziffer und 1&nbsp;Sonderzeichen enthalten
+                </p>
+                <label for="pin">Fahrzeug-PIN</label>
+                <input type="password" maxlength="4" name="pin" id="pin" pattern="[0-9]{4,4}" required>
+                <input type="button" value="Anzeigen">
+                <!-- <svg><use xlink:href="img/icons.svg#icon-thumb"></use></svg> -->
+                <p>zum Öffnen/Schließen des Fahrzeuges per App (4 Ziffern)</p>
+            </fieldset>
+            <fieldset>
+                <legend>Lastschrift</legend>
+                <p>
+                    Gläubiger-ID
+                    DE89EFM00000002150
+                </p>
+                <label for="iban">IBAN</label>
+                <input data-required="1" type="text" name="iban" id="iban" required> <br>
+                <label for="accountOwner">Kontoinhaber</label>
+                <input type="text" name="accountOwner" id="accountOwner">
+                <p>Nur ausfüllen, falls abweichender Kontoinhaber</p>
+                <label for="sepaOkay">
+                    <input type="checkbox" name="sepaOkay" id="sepaOkay" value="confirmed" required>
+                    Ich ermächtige die einfach mobil Carsharing GmbH Zahlungen von meinem Konto mittels
+                    SEPA-Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von der einfach
+                    mobil Carsharing GmbH auf mein Konto gezogenen Lastschriften einzulösen. *
+                </label>
+            </fieldset>
+            <fieldset>
+                <legend>Kunden werben Kunden</legend>
+                <p>Baby-Drive Carsharing wurde dir von jemandem empfohlen?
+                    Das finden wir toll und möchten uns gerne mit 20€ Baby-Drive Fahrtguthaben dafür bedanken. Wenn wir
+                    wissen wer es war, können wir das Fahrtguthaben gleich in dessen Kundenkonto gutschreiben.</p>
+                <label for="recruitCustomerName">Name des Werbenden</label>
+                <input type="text" name="recruitCustomerName" id="recruitCustomerName"> <br>
+                <label for="recruitCustomer">Kundennummer des Werbenden</label>
+                <input type="text" name="recruitCustomer" id="recruitCustomer"> <br>
+            </fieldset>
+            <fieldset>
+                <legend>Gutscheine</legend>
+                <label for="voucher1">Gutschein-Code</label>
+                <input type="text" name="voucher[]" id="voucher1">
+                <input type="button" id="addVoucher" value="+" />
+                <p>Du kannst bis zu drei Gutscheincodes einlösen!</p>
+            </fieldset>
+            <fieldset>
+                <legend>AGB *</legend>
+                <label for="agb">
+                    <input type="checkbox" name="agb" id="agb" required value="confirmed">
+                    Ich habe die <a href="#"
+                        target="_blank">Allgemeinen Geschäftsbedingungen (AGB)</a> gelesen und akzeptiere diese.
+                    Der Vertragsabschluss setzt eine notwendige Bonität oder Ersatzleistung voraus.
+                </label>
+            </fieldset>
+            <input type="submit" value="Eingaben prüfen &gt;&gt;">
+        </form>
+    </article>
+    <script src="js/mitglied-registrieren.js"></script>
+</body>
+
+</html>
